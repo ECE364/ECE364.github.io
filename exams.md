@@ -97,19 +97,19 @@ title: Exams
 
 Couple things to note about exams:
 - All the midterms will be administered during lecture time in the usual lecture room. 
-- The final will be conducted according to the registrar's schedule. 
+- The final will be will be used as a time to make up any exams previously missed and will be scheduled according to the registrar's schedule. 
 
 ### Exam Policies
 
 Besides the obvious "don't cheat" exam policies outlined in the [policies page](/policies/cheating) you should know about the following exam procedures: 
 
-#### Exam Drop
+#### Conflict exam 
 
-**Exam drop replaces conflict exams.** As per the grading policy, we have included one more exam than normal so that students can drop one exam grade each semester. This exam drop has the same purpose as the HW drop - to give students a buffer for those times when life gets in the way. Should you get sick or maybe have a moment of panic during one of the exams, you now have a drop so that one grade won't sink you.  
+So I recognize that exceptional instances happen that prevent someone from taking an exam. If at any point in the semester, something happens where you need to miss an exam, a conflict exam will be offered at the end of the semester doing the final exam period. You don't need prior approval or a "good" excuse. I have no interest being an arbiter of what is an isn't a valid excuse. You miss an exam, you can take it in the final exam period. You miss two exams, you take them both during the final exam period. Some clarifying issues: 
 
-One critique of this policy is "what if you missed two exams?" I have taught this course more than 6+ times and I have yet to meet someone that missed two exams but had mastered the material. In the past three years that I have taught the course, every case of a student missing two or more exams is accompanied by the student performing in the bottom 10% of the exams they did take. This makes sense when you think about. Missing two exams is indicative of being absent for the majority of the semester which would in turn mean that the material was probably not mastered. 
-
-However, I will make a deal with anyone that is still worried about this. If you miss two exams due to a *documented* emergency but score in the top 20th percentile on the other two exams, I will substitute the lower completed exam grade for one of the missed exams. Note: you must have documentation of the emergency circumstances that required you to miss the two exams. You can email me about the specific requirements for this documentation.  
+- If you already took an exam, you can't take the conflict. The one exception is for students that did horribly on one exam (scored in the bottom 20% or the course), and then did great on another exam (scored in the top 20% of the course). In that case, please contact us and the staff will consider allowing a conflict as a sort of redemption. This policy is for students that would've have done great but just had a bad day. 
+- While I will do my best to ensure the standard and conflict are equal difficulty, I'm not perfect (no professor is) and theres always the possibility that nominal and conflict have differing difficulties. I will also curve the exams so that they have the same average but as someone that has been doing this a long time, the conflict exam will have fewer people making establishing a curve less stable. For this reason I strongly recommend taking the exam with the rest of the course during the normal exam time.  
+- This policy applies to DRES students as well. 
 
 #### Cheatsheet
 
@@ -118,7 +118,7 @@ I've wrestled with the concept of cheatsheets a lot in past semesters. Ideally, 
 - Make sure that the exam problems are changed up so that copying from a HW/lab problem would hurt more than help. 
 - Eliminate cheatsheets altogether. 
 
-I think I've come up with a solution that'd help everyone. Over the course of two semesters, we've constructed a communal cheat sheet for each of the exams. These cheat sheets will be posted on the website well in advance of the exam and will be attached to the back of the exam. 
+I think I've come up with a solution that'd help everyone. We will construct a communal cheat sheet for each of the exams. These cheat sheets will be posted on the website well in advance of the exam and will be attached to the back of the exam. 
 
 This lets me use problems that many of you have seen before but know that the people answering those problems are doing so because they actually mastered the material. 
 
@@ -134,6 +134,7 @@ Regrades requests would be open for a week once grades are released (except for 
 Unfortunately, certain students think that they can tire us into giving them point that they did not earn, by keep asking for unjustified regrade requests. As such, superfluous, argumentative and repetitive regrade requests, after an appropriate warning, would results in a zero on the relevant questions - please do not waste our time.
 
 ### DRES
-- If you have a DRES accommodation, please email the course staff directly (not sure if sending documents over Piazza is compliant with EHR policies or not, but why risk it). Make sure I respond that I've recorded your accommodation! If I don't respond email again.
-- Because of the limited staff, DRES students will take the exams at the [TAC](https://www.disability.illinois.edu/academic-accommodations-and-supports/academic-accommodations/testing-accommodations) synchronously with the rest of the class. We'll hammer out the details closer to MT1. 
+- If you have a DRES accommodation, please email the course staff directly (not sure if sending documents over Piazza is compliant with EHR policies or not, but why risk it). Make sure I respond that I've recorded your accommodation! If I don't respond email again. 
+- Because of the limited staff, DRES students will take the exams at the [TAC](https://www.disability.illinois.edu/academic-accommodations-and-supports/academic-accommodations/testing-accommodations) synchronously with the rest of the class. DRES students that need additional time for exams are expected to schedule exam proctoring with the Testing and Accommodation Facility. I'll try my best to send out reminder emails but it is your responsibility to make sure you have registered for TAC accommodations. 
 - Best thing you can do is to schedule the exams with TAC **now**. That way there is no chance on forgetting to schedule a slot and missing out on your accommodations.  
+- Regardless of if you have extra time, you are expected to show up to the exam on time. TAC will refuse to accept any individual that arrives to an exam more than 30 minutes late. I had tom implement this rule because in the past, I've had multiple DRES students have +50% time on the exam and show up to the exam late by that amount of time (effectively using the extra time as a opportunity to sleep in). Stuff like this makes it harder for DRES students that actually need accommodations to get so please do your best to show up to a exam on time.  
