@@ -1,49 +1,36 @@
 MT1: 
   num: 1
-  topic: Languages complexity 
-  date: 2023-09-21
-  samp_exam1: /materials/exams/samples/midterm1-fa22.pdf
-  samp_exam2: /materials/exams/samples/midterm1-sp23.pdf
-  samp_exam1_sol: /materials/exams/samples/midterm1-sol-fa22.pdf
-  samp_exam2_sol: /materials/exams/samples/midterm1-sol-sp23.pdf
-  skillset: materials/exams/mt_1_skillset.pdf
-  cheat_sheet: materials/exams/main_MT1.pdf
-  exam_questions: materials/exams/midterm1-vf-fa23.pdf
-  exam_solutions: materials/exams/midterm1-vf-fa23-sol.pdf
+  topic: PyTorch, linear-algebra, regression basics 
+  date: 2025-03-11
+  samp_exam1: 
+  samp_exam2: 
+  samp_exam1_sol: 
+  samp_exam2_sol: 
+  skillset: 
+  cheat_sheet: 
+  exam_questions: 
+  exam_solutions: 
 
 MT2: 
   num: 2
-  topic: Algorithms 
-  date: 2023-10-31
-  samp_exam1: /materials/exams/samples/midterm2-fa22.pdf
-  samp_exam2: /materials/exams/samples/midterm2-sp23.pdf
-  samp_exam1_sol: /materials/exams/samples/midterm2-sol-fa22.pdf
-  samp_exam2_sol: /materials/exams/samples/midterm2-sol-sp23.pdf
-  skillset: materials/exams/mt_2_skillset.pdf
-  cheat_sheet: materials/exams/main_MT2.pdf
-  exam_questions: materials/exams/midterm2-vf-fa23.pdf
-  exam_solutions: materials/exams/midterm2-vf-fa23-sol.pdf
+  topic: Deep nets and advanced ML models 
+  date: 2025-05-01
+  samp_exam1: 
+  samp_exam2: 
+  samp_exam1_sol: 
+  samp_exam2_sol: 
+  skillset: 
+  cheat_sheet: 
+  exam_questions: 
+  exam_solutions: 
 
-MT3: 
+Conflict: 
   num: 3
-  topic: NP-completeness and decidability 
-  date: 2023-11-30
-  samp_exam1: /materials/exams/samples/midterm3-fa22.pdf
-  samp_exam2: /materials/exams/samples/midterm3-sp23.pdf
-  samp_exam1_sol: /materials/exams/samples/midterm3-sol-fa22.pdf
-  samp_exam2_sol: /materials/exams/samples/midterm3-sol-sp23.pdf
-  skillset: materials/exams/mt_3_skillset.pdf
-  cheat_sheet: materials/exams/main_MT3.pdf
-  exam_questions: materials/exams/midterm3-vf-fa23.pdf
-  exam_solutions: materials/exams/midterm3-vf-fa23-sol.pdf
-
-Final: 
-  num: 4
-  topic: (Final) All of the above 
-  date: 2023-12-12
+  topic: Conflict exam(s) (during final period) 
+  date: TBD  
   samp_exam: 
-  skillset: materials/exams/final_skillset.pdf
-  cheat_sheet: materials/exams/main_Final.pdf
+  skillset: 
+  cheat_sheet: 
   fodder: 
   exam_questions: 
   exam_solutions: 

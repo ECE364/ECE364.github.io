@@ -11,7 +11,6 @@ title: Exams
     <th>Skillset</th>
     <th>Cheat Sheet</th>
     <th>Sample 1</th>
-    <th>Sample 2</th>
     <th>Exam & Solutions</th>
   </tr>
   {% for iteml in site.data.exam %}  
@@ -64,28 +63,7 @@ title: Exams
                     src="{{ site.base }}/img/icons/lab_solutions.png" />
             </a>
             {% endif %}              
-        </td>
-        <td>
-        <!-- Sample Exam 2 -->
-            {% if item.samp_exam2 %}
-            <a href="{{ site.base }}{{ item.samp_exam2 }}"
-                style="text-decoration: none">
-                <img class="homework-icon"
-                    alt="{{ iteml[0] }} sample exam"
-                    title="{{ iteml[0] }} sample exam"
-                    src="{{ site.base }}/img/icons/lab_questions.png" />
-            </a>
-            {% endif %}
-            {% if item.samp_exam2_sol %}
-            <a href="{{ site.base }}{{ item.samp_exam2_sol }}"
-                style="text-decoration: none">
-                <img class="homework-icon"
-                    alt="{{ iteml[0] }} exam solutions"
-                    title="{{ iteml[0] }} exam solutions"
-                    src="{{ site.base }}/img/icons/lab_solutions.png" />
-            </a>
-            {% endif %}            
-        </td>        
+        </td>       
         <td> 
             {% if item.exam_questions %}
             <a href="{{ site.base }}{{ item.exam_questions }}"
