@@ -1,5 +1,5 @@
-name: ECE374-B Archive
-url: http://UIUC-ECE374B-FA23.github.io
+name: ECE364
+url: http://UIUC-ECE364.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -75,4 +75,4 @@ navigation:
     link: /office_hours.html       
 
 #Variable that sets if this is a archived version of the site or not
-archived: true
+archived: false
