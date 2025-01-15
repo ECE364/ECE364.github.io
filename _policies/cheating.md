@@ -21,22 +21,10 @@ For more information and examples, see any of the following:
 
 If you have any doubts about whether something constitutes plagiarism, talk to instructor(s) or the TAs, and err on the side of caution.
 
-###### Cite your sources
+###### No generative AI 
 
-We strongly encourage you to use any printed, online, or living resource at your disposal to help you solve homework problems, but you must cite your sources.
-
-- If you use an idea from a book, cite the book.
-- If you use an idea from a paper, cite the paper.
-- If you use an idea from Wikipedia, cite Wikipedia.
-- If you use an idea from CS StackExchange, cite CS StackExchange.
-- If you use an idea from last semester's homework solutions, cite last semester's homework solutions.
-- If you use an idea from another student, cite that student.
-- If you use an idea from your mom, cite your mom.
-
-There are only two exceptions to this rule. **You are not required to cite the following:**
-
-- Official course materials (lectures, lecture notes, homework and exam solutions *from this semester*)
-- Sources for prerequisite material (which we assume you already know by heart)
+- Textbooks and online documentation are allowed to be used with the homeworks.  
+- You are not allowed to use generative AIs for the homeworks. I totally get that lots of people find generative AI to be a useful [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck) when coding, but I do not believe that is the way most people are using it. I totally understand the philosophical argument, but I've been doing this a while now and I firmly believe eliminating all struggle from learning harms students from becoming more intelligent the same way eliminating struggle from exercise eliminates any strength gains. And there's more research coming out that supports [this point of view](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486). 
 
 #### Penalties
 
@@ -47,6 +35,4 @@ There are only two exceptions to this rule. **You are not required to cite the f
 - We reserve the right to register FAIR violations at any point in the semester (even once the semester is over). FAIR violations are time-consuming for the staff so multiple cheating offenses could be included in a single violation. 
 
 Don't be an idiot. Just do the work.
-
-**Credit** This webpage was modified from previous [semester(s)](https://courses.engr.illinois.edu/cs374/fa2020/integrity.html).
 

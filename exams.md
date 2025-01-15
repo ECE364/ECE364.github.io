@@ -96,6 +96,8 @@ title: Exams
 &nbsp;
 
 Couple things to note about exams:
+- There will only be two midterms in this course (no final).
+- The final exam time is reserved for conflict exams that students who missed one or both of the midterms need to take.
 - All the midterms will be administered during lecture time in the usual lecture room. 
 - The final will be will be used as a time to make up any exams previously missed and will be scheduled according to the registrar's schedule. 
 
@@ -138,3 +140,4 @@ Unfortunately, certain students think that they can tire us into giving them poi
 - Because of the limited staff, DRES students will take the exams at the [TAC](https://www.disability.illinois.edu/academic-accommodations-and-supports/academic-accommodations/testing-accommodations) synchronously with the rest of the class. DRES students that need additional time for exams are expected to schedule exam proctoring with the Testing and Accommodation Facility. I'll try my best to send out reminder emails but it is your responsibility to make sure you have registered for TAC accommodations. 
 - Best thing you can do is to schedule the exams with TAC **now**. That way there is no chance on forgetting to schedule a slot and missing out on your accommodations.  
 - Regardless of if you have extra time, you are expected to show up to the exam on time. TAC will refuse to accept any individual that arrives to an exam more than 30 minutes late. I had tom implement this rule because in the past, I've had multiple DRES students have +50% time on the exam and show up to the exam late by that amount of time (effectively using the extra time as a opportunity to sleep in). Stuff like this makes it harder for DRES students that actually need accommodations to get so please do your best to show up to a exam on time.  
+

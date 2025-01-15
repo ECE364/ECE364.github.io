@@ -48,10 +48,6 @@ base: ''
 
 # make pages for the colections
 collections:
-  lectures:
-    output: true
-  labs:
-    output: true
   resources:
     output: true
   policies: 
@@ -63,12 +59,14 @@ navigation:
     link: /
   # - title: People
   #   link: /people.html
-  - title: Lectures and Labs
+  - title: Lectures
     link: /lectures.html    
   - title: Homeworks
     link: /homeworks.html
   - title: Exams
     link: /exams.html    
+  - title: Project
+    link: /project.html      
   - title: Policies
     link: /policies.html
   - title: Schedules

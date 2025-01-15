@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lectures and labs
+title: Lectures
 
 ---
 
@@ -8,33 +8,46 @@ I would like to thank Prof. [Alexander Schwing](https://www.alexander-schwing.de
 
 Also, quick hint, icons are links to slides and video contents! 
 
-{% comment %}
- <div class="card-columns">
-    {% comment %}
-    Sort the lectures by date, putting those without dates last
-    {% endcomment %}
-    {% assign lectures_by_date = site.lectures | sort: 'deliverydate', 'first' %}
-    {% for l in lectures_by_date %}
-        {% include lecture-card.html lecture=l %}
-    {% endfor %}
-</div>
-{% endcomment %}
+<table id="customers">
+  <tr>
+    <th> # </th>
+    <th>Title</th>
+    <th>Date</th>
+    <th>Slides</th>
+    <th>Recording</th>
+    <!-- <th>Solutions</th> -->
+  </tr>
+  {% for iteml in site.data.lecture %}  
+    {% assign item = iteml[1] %}
+    <tr>
+        <td>{{ item.num }}</td>
+        <td> {{ item.title }} </td>
+        <td> {{ item.deliverydate | date: "%b %d" }} </td>
+        <td> 
+            {% if item.link-slides %}
+            <a href="{{ site.base }}{{ item.link-slides }}"
+                style="text-decoration: none">
+                <img class="homework-icon"
+                    alt="Lecture {{ item.num }} slides"
+                    title="Lecture {{ item.num }} slides"
+                    src="{{ site.base }}/img/icons/slide_clean_3.png" />
+            </a>
+            {% endif %}
+        </td>
+        <td> 
+            {% if item.link-recording %}
+            <a href="{{ site.base }}{{ item.link-recording }}"
+                style="text-decoration: none">
+                <img class="homework-icon"
+                    alt="Lecture {{ item.num }} recording"
+                    title="Lecture {{ item.num }} recording"
+                    src="{{ site.base }}/img/icons/lecture_recording_3.png" />
+            </a>
+            {% endif %}
+        </td>
+    </tr>        
 
-{% assign lectures_by_date = site.lectures | sort: 'deliverydate', 'first' %}
-{% assign labs_by_date = site.labs | sort: 'deliverydate', 'first' %}
 
+  {% endfor %}
 
-<section class="people row justify-content-between">
-    <div class="col-md-7">
-        <h3 class="pt-3"> Lectures </h3>
-        {% for l in lectures_by_date %}
-            {% include lecture-card.html lecture=l %}
-        {% endfor %}
-    </div>
-    <div class="col-md-5">
-        <h3 class="pt-3"> Labs </h3>
-        {% for l in labs_by_date %}
-            {% include lab-card.html lecture=l %}
-        {% endfor %}
-    </div>    
-</section>
+</table>

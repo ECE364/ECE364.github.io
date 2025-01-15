@@ -33,22 +33,24 @@
             {%- when '6' %}<span class="calendar__we {{ has_posts }} ">
             {%- when '7' %}<span class="calendar__we {{ has_posts }}">
             {%- else %}
-                {%- for post in site.lectures %}
+                {%- for postl in site.data.lecture %}
+                    {% assign post = postl[1] %}
                     {%- assign d = post.deliverydate | date: "%Y-%m-%d" %}
                     {%- if d == dayf %}
                         {% unless post.placeholder %}
                             {% assign has_lec = true %}
-                            {%- assign link = "/lectures.html#" | append: post.card-link %}
+                            {%- assign link = "/lectures.html" %}
                             {% break %}
                         {% endunless %}
                     {% endif %}
                 {%- endfor %}
-                {%- for post in site.labs %}
+                {%- for postl in site.data.project %}
+                    {% assign post = postl[1] %}
                     {%- assign d = post.deliverydate | date: "%Y-%m-%d" %}
                     {%- if d == dayf %}
                         {% unless post.placeholder %}
                             {% assign has_lab = true %}
-                            {%- assign link = "/lectures.html#" | append: post.card-link %}
+                            {%- assign link = "/project.html" %}
                             {% break %}
                         {% endunless %}
                     {% endif %}
@@ -72,13 +74,13 @@
                     {% endif %}
                 {%- endfor %}
                 {%- if has_lec %}
-                    <span><a href="{{ site.base }}{{ link }}" style="color:#0000aa;">
+                    <span><a href="{{ site.base }}{{ link }}" style="color:#0000aa; font-weight:bold;">
                 {%- elsif has_lab %}
-                    <span><a href="{{ site.base }}{{ link }}" style="color:#00aa00;">
+                    <span><a href="{{ site.base }}{{ link }}" style="color:#00aa00;; font-weight:bold;">
                 {%- elsif has_hw %}
-                    <span><a href="{{ site.base }}{{ link }}" style="color:#aa0000;">  
+                    <span><a href="{{ site.base }}{{ link }}" style="color:#aa0000;; font-weight:bold;">  
                 {%- elsif has_exam %}
-                    <span><a href="{{ site.base }}{{ link }}" style="color:#aa00aa;">  
+                    <span><a href="{{ site.base }}{{ link }}" style="color:#aa00aa;; font-weight:bold;">  
                 {%- else %}
                     <span class="">
                 {%- endif %}      

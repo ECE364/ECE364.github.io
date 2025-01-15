@@ -52,7 +52,7 @@ title: Homeworks
 
 &nbsp;
 
-Couple things to note about homeworks:
+Couple things to note about homeworks
 - Homeworks are to be completed **individually** through PrarieLearn.
 - Each homework is assigned when you have most (if not all) of the required knowledge to complete it.  **There is zero reason not to start the homework early** Office hours are not provided on Fridays and HWs are due Monday morning. Please plan ahead. 
 - Most homeworks will consist of 3-4 novel problems. Each homework is weighted equally towards your final grade. 
@@ -76,5 +76,5 @@ Couple things to note about homeworks:
 
 ### Allowable resources
 
-- Textbooks and online documentation are akllowed to be used with the homeworks.  
+- Textbooks and online documentation are allowed to be used with the homeworks.  
 - You are not allowed to use generative AIs for the homeworks. I totally get that lots of people find generative AI to be a useful [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck) when coding, but I do not believe that is the way most people are using it. I totally understand the philosophical argument, but I've been doing this a while now and I firmly believe eliminating all struggle from learning harms students from becoming more intelligent the same way eliminating struggle from exercise eliminates any strength gains. And there's more research coming out that supports [this point of view](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486). 
