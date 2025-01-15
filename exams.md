@@ -129,7 +129,7 @@ The exams will be scanned and uploaded to Gradescope where they will be graded b
 
 ### Regrades
 
-Regrades requests would be open for a week once grades are released (except for final exam). Regrade requests are not intended for arguing about point allocation, or whether the grading scale is fair.
+Regrades requests would be open for a week once grades are released. Regrade requests are not intended for arguing about point allocation, or whether the grading scale is fair.
 
 Unfortunately, certain students think that they can tire us into giving them point that they did not earn, by keep asking for unjustified regrade requests. As such, superfluous, argumentative and repetitive regrade requests, after an appropriate warning, would results in a zero on the relevant questions - please do not waste our time.
 

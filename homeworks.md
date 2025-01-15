@@ -11,7 +11,7 @@ title: Homeworks
     <th>Assigned</th>
     <th>Due</th>
     <th>Questions</th>
-    <th>Solutions</th>
+    <!-- <th>Solutions</th> -->
   </tr>
   {% for iteml in site.data.homework %}  
     {% assign item = iteml[1] %}
@@ -32,7 +32,7 @@ title: Homeworks
             </a>
             {% endif %}
         </td>
-        <td> 
+        <!-- <td> 
             {% if item.solutions-link %}
             <a href="{{ site.base }}{{ item.solutions-link }}"
                 style="text-decoration: none">
@@ -42,7 +42,7 @@ title: Homeworks
                     src="{{ site.base }}/img/icons/lab_solutions.png" />
             </a>
             {% endif %}
-        </td>
+        </td> -->
     </tr>        
 
 
@@ -53,40 +53,28 @@ title: Homeworks
 &nbsp;
 
 Couple things to note about homeworks:
-- Homeworks are to be completed **individually**. Yes, this is a change from previous seemsters but we have [good reason](/resources/No-group-assignments.html) to believe that the group homeworks hamper learning instead of facilitate it. 
-- Each homework is assigned when you have all (or at least most) of the required knowledge to complete it. In two cases, because of scheduling constraints, one or two problems may require knowledge from the lecture/discussion right after assignment. Either way you'll have the knowledge for those problems by Wednesday. This is a long-winded way of saying: **There is zero reason not to start the homework early**
-- Most homeworks will consist of 2 novel problems and 2 problems you've seen in the labs. All the problems counts equally toward your final course grade.
-- The homework average consists 25% of your final course grade. We will use the highest 27 scores to calculate your homework average for your final course grade. Since there are expected to be 36 problems, this means that 8 problems will be dropped (>2 homeworks).
+- Homeworks are to be completed **individually** through PrarieLearn.
+- Each homework is assigned when you have most (if not all) of the required knowledge to complete it.  **There is zero reason not to start the homework early** Office hours are not provided on Fridays and HWs are due Monday morning. Please plan ahead. 
+- Most homeworks will consist of 3-4 novel problems. Each homework is weighted equally towards your final grade. 
+- The homework average consists 25% of your final course grade. We will drop your lowest two homework scores. 
 - It's a bad idea to skip homeworks. Homeworks and labs are where we get inspiration for exam problems. 
-- You can find a sample HW LaTeX template [here](/materials/homeworks/hwt_B.tex).
 
 ### Homework Logistics: How to submit
 
-- All homework solutions must be submitted electronically via Gradescope. Submit one PDF file for each numbered homework problem. Gradescope will not accept other file formats such as plain text, HTML, LaTeX source, or Microsoft Word (.doc or .docx).
-- **Homeworks are due by 6 AM** of their due date. 
+- All homeworks are administered and graded through PrarieLearn. Most problems are auto-graded but many will have a .
+- **Homeworks are due by 12.01 AM** of their due date (so midnight Sunday night). In other classes, I used to make the deadline 6AM but many students would stay upm all night do the homeworks and I want you guys to sleep. Again my intent is absolutely not to consume your weekend. You have 11 days to complete the homework and the knowledge neccessary to complete the problems at the time of assignment. Start the assignment early, go to OHs if you get stuck and you'll have no problem finishing the homeowkr quickly. 
 - You **should not** use Canvas to keep track of homeworks or any other course policies and logistics. **Canvas is a gradebook, that's all.**  
-- You will be registered with Gradescope using your university email address. If you can't access Gradescope let the course staff know. 
-- All homework assignments must be completed and submitted individually this semester. No group assignments. 
-- As error correction, each submitted homework solution should **include the following information in large friendly letters at the top of every page/problem**. 
-    - The homework number
-    - The problem number
-    - Name + netid
-- **We will not accept late homework for any reason.** To offset this rather draconian policy, we have a very generous number of homework drops (compared to other sections/courses). Also remember you can always resubmit a problem to gradescope. There is zero reason to wait until the last minute to submit your work.  
+- You will be registered with PrarieLearn using your university email address. If you can't access PrarieLearn let the course staff know. 
+- Late homeworks are penalized ata rate of 1 point/hour that they are late. We will not discuss late homeworks in OHs. We have a small staff and we need to prioritize current homeworks in OH. 
 
 ### Homework Grading Policies: 
 
-- **Homeworks** are graded by the entire course staff, within Gradescope. All numbered homework problems are worth the same amount. 
-- Under normal circumstances, all homework should be graded within two weeks of submission. However, your graders also have significant responsibilities and may take longer to grade the homeworks. This is all to say one thing: **homeworks should not be used to check your mastery of the material.** After the due date the homework solutions are immediately posted and you can check your answers against the solutions. Every semester students email me that they got something wrong on the exam because the HW were not graded beforehand. I am sorry but I simply do not have the resources to ensure that homeworks are always returned before an exam and so, you should verify your submission against the posted solutions and ping us on Piazza or come to OHs if you don't understand a discrepancy.  
+- **Homeworks** are graded by the entire course staff, both manually and with auto-grader software. 
+- Under normal circumstances, all homework should be graded within two weeks of submission (this pertains more to manually graded portions of homeworks). However, the course staff members also have significant responsibilities and may take longer to grade the homeworks. This is all to say one thing: **homeworks should not be used to check your mastery of the material.** Most (if not all) problems will have some autograded portions so you should have early indications of if your understand a particular concept. If you get stuck, use OHs! 
 - Homework grades are **not** a proof of correctness and cannot be used to argue for correctness on a exam. 
-- Partial credit is given for work that is very close to being correct. 
-- **We will give zero points for long and tedious solutions** (i.e., solutions that are longer than the official solutions by a significant amount). We reserve the right of not even reading your solution if it exceedingly and unnecessarily long. If your solutions seems too long - rewrite it to be short and precise. 
-- This semester I am limiting solutions text to be **300 words long max** per problem. It is incredibly important to be able to convey complex idea as concisely as possible and I think this is good practice. I highly suggest using figures(flowcharts, graphics)/equations(useful for recurrences) to cut down on the word vomit. 
->If I had more time, I would have written a shorter letter. 
-><cite> - [Unknown](https://www.lb7.uscourts.gov/documents/314-cv-921.pdf) <cite>
+- Partial credit is given depending on the question. Most auto-graded assignments will not have partial credit but manually graded assignments might. 
 
+### Allowable resources
 
-### Regrades
-
-Regrades requests would be open for a week once grades are released (except for final exam because of registrar grade submission deadlines). Regrade requests are not intended for arguing about point allocation, or whether the grading scale is fair.
-
-Unfortunately, certain students think that they can tire us into giving them point that they did not earn, by keep asking for unjustified regrade requests. As such, superfluous, argumentative and repetitive regrade requests, after an appropriate warning, would results in a zero on the relevant questions - please do not waste our time.
+- Textbooks and online documentation are akllowed to be used with the homeworks.  
+- You are not allowed to use generative AIs for the homeworks. I totally get that lots of people find generative AI to be a useful [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck) when coding, but I do not believe that is the way most people are using it. I totally understand the philosophical argument, but I've been doing this a while now and I firmly believe eliminating all struggle from learning harms students from becoming more intelligent the same way eliminating struggle from exercise eliminates any strength gains. And there's more research coming out that supports [this point of view](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486). 

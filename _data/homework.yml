@@ -1,79 +1,89 @@
 hw1: 
   num: 1
-  topic: Languages and RegEx
-  num-problems: 4
-  assigned-date: 2023-08-25
-  due-date: 2023-09-04
-  questions-link: /materials/homeworks/hw1.pdf
-  solutions-link: /materials/homeworks/hw1_sol.pdf
+  topic: Pytorch Basics
+  num-problems: 
+  assigned-date: 2025-01-23
+  due-date: 2025-01-29
+  questions-link: 
+  solutions-link: 
 
 hw2: 
   num: 2
-  topic: DFAs and NFAs	
-  num-problems: 4
-  assigned-date: 2023-09-01
-  due-date: 2023-09-11
-  questions-link: /materials/homeworks/hw2.pdf
-  solutions-link: /materials/homeworks/hw2_sol.pdf
+  topic: Linear Algebra
+  num-problems: 
+  assigned-date: 2025-01-30
+  due-date: 2025-02-10
+  questions-link: 
+  solutions-link: 
 
 hw3: 
   num: 3
-  topic: Fooling Sets and CFGs	
-  num-problems: 4
-  assigned-date: 2023-09-07
-  due-date: 2023-09-18
-  questions-link: /materials/homeworks/hw3.pdf
-  solutions-link: /materials/homeworks/hw3_sol.pdf
+  topic: Auto-differentiation 
+  num-problems: 
+  assigned-date: 2025-02-06
+  due-date: 2025-02-17
+  questions-link: 
+  solutions-link: 
 
 hw4: 
   num: 4
-  topic: Reductions and Divide & Conquer	
-  num-problems: 4
-  assigned-date: 2023-09-29
-  due-date: 2023-10-09
-  questions-link: /materials/homeworks/hw4.pdf
-  solutions-link: /materials/homeworks/hw4_sol.pdf
+  topic: Optimization and regression	
+  num-problems: 
+  assigned-date: 2025-02-13
+  due-date: 2025-02-24
+  questions-link: 
+  solutions-link: 
 
 hw5: 
   num: 5
-  topic: Backtracking and Dynamic Programming	
-  num-problems: 4
-  assigned-date: 2023-10-06
-  due-date: 2023-10-16
-  questions-link: /materials/homeworks/hw5.pdf
-  solutions-link: /materials/homeworks/hw5_sol.pdf
+  topic: Linear and logistic regression
+  num-problems: 
+  assigned-date: 2025-02-20
+  due-date: 2025-03-03
+  questions-link: 
+  solutions-link: 
+
 hw6: 
   num: 6
-  num-problems: 4
-  topic: More Dynamic Programming and Problem-Graph Modeling	
-  assigned-date: 2023-10-13
-  due-date: 2023-10-23
-  questions-link: /materials/homeworks/hw6.pdf
-  solutions-link: /materials/homeworks/hw6_sol.pdf
+  num-problems: 
+  topic: More regression and optimizers	
+  assigned-date: 2025-02-27
+  due-date: 2025-03-10
+  questions-link: 
+  solutions-link: 
 
 hw7: 
   num: 7
-  topic: DAGs, Shortest Paths	
-  num-problems: 4
-  assigned-date: 2023-10-20
-  due-date: 2023-10-30
-  questions-link: /materials/homeworks/hw7.pdf
-  solutions-link: /materials/homeworks/hw7_sol.pdf
+  topic: Deep nets	
+  num-problems: 
+  assigned-date: 2025-03-27
+  due-date: 2025-04-07
+  questions-link: 
+  solutions-link: 
 
 hw8: 
   num: 8
-  topic: Reductions, NP-Completeness	
-  num-problems: 4
-  assigned-date: 2023-11-03
-  due-date: 2023-11-13
-  questions-link: /materials/homeworks/hw8.pdf
-  solutions-link: /materials/homeworks/hw8_sol.pdf
+  topic: Recurrent NNs and PCA	
+  num-problems: 
+  assigned-date: 2025-04-03
+  due-date: 2025-04-14
+  questions-link: 
+  solutions-link: 
 
 hw9: 
   num: 9
-  topic: NP-Completeness, Decidability	
-  num-problems: 4
-  assigned-date: 2023-11-10
-  due-date: 2023-11-27
-  questions-link: /materials/homeworks/hw9.pdf
-  solutions-link: /materials/homeworks/hw9_sol.pdf
+  topic: K-means and GAN
+  num-problems: 
+  assigned-date: 2025-04-10
+  due-date: 2025-04-21
+  questions-link: 
+  solutions-link: 
+
+  hw10: 
+  num: 10
+  topic: Attention and transformers
+  num-problems: 
+  assigned-date: 2025-04-17
+  due-date: 2025-04-21
+  questions-link: 
+  solutions-link: 
