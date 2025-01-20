@@ -1,4 +1,4 @@
-This is the official website of ECE374-B at the University of Illinois at Urbana-Champaign for the Spring 2023 semester. This site is built on the Sampa research group website template whose information can be seen below. Huge thanks to the Sampa group for this website template.
+This is the official website of ECE364 at the University of Illinois at Urbana-Champaign for the Spring 2025 semester. This site is built on the Sampa research group website template whose information can be seen below. Huge thanks to the Sampa group for this website template.
 
 This website is a culmination of a lot of different code/design snippets from a lot of different authors. These include: 
 
