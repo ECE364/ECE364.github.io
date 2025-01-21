@@ -16,10 +16,3 @@ I know most of you use the rich text editor from overleaf (if you use LaTeX at a
 
 * [Tips and tricks for writing math-heavy documents](https://fanpu.io/blog/2023/latex-tips/#paired-delimiters)  
 * [Typesetting code with tcolorbox and minted](https://tex.stackexchange.com/questions/174455/typeset-source-code-with-tcolorbox)
-
-### Tikz
-
-I use TikZ for drawing a lot of the simple diagrams in lectures and labs. It has a large learning curve but it's so nice to have  
-
-* [Automatic generation of FSM diagram](https://madebyevan.com/fsm/)
-* [TA created simple TikZ automata](/resources/TikzDocumentation)
