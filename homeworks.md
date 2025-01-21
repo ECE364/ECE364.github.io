@@ -56,7 +56,7 @@ Couple things to note about homeworks
 - Homeworks are to be completed **individually** through PrairieLearn.
 - Each homework is assigned when you have most (if not all) of the required knowledge to complete it.  **There is zero reason not to start the homework early.** Office hours are not provided on Mondays and HWs are due Monday night. Please plan ahead. 
 - Most homeworks will consist of 3-4 novel problems. Each homework is weighted equally towards your final grade. 
-- The homework average consists 25% of your final course grade. We will drop your lowest two homework scores. 
+- The homework average consists 25% of your final course grade. We will drop your lowest homework score. 
 - It's a bad idea to skip homeworks. Homeworks and labs are where we get inspiration for exam problems. 
 
 ### Homework Logistics: How to submit
