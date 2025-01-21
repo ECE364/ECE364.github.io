@@ -2,7 +2,7 @@ lec0:
   num: 0
   title: Lecture 0 - PyTorch Intro, tensors, views, indexing
   deliverydate: 2025-01-21 
-  link-slides: materials/lectures/Lecture0_Kani.html
+  link-slides: materials/lectures/lec0/Lecture0_Kani.html
   link-recording: 
 
 lec1:
