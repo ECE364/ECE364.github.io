@@ -10,8 +10,8 @@ There are three components to your raw total:
 - [Homeworks](/homeworks.html): 25%
     - Remember we have a late homework policy and a drop so if you miss a homework due to illness or did not perform as well as you'd hoped, you have an opportunity to bounce back. 
 - [Exams](/exams.html): 50%
-    - There will be two midterm exams, and a cumulative final exam. 
-    - I don't want to be the arbiter of what is and isn't a valid reason to miss your work (and neither should students have to plead and hope for mercy from professors). That is why I constructed this policy, which is merciful but will be applied strictly. If you have a serious issue that causes you to miss two or more midterms, you ned to contact your department's advising office and/or the [emergency dean](/policies/stressed).
+    - There will be two midterm exams, and no final exam. 
+    - I don't want to be the arbiter of what is and isn't a valid reason to miss your work (and neither should students have to plead and hope for mercy from professors). That is why I constructed this policy, which is merciful but will be applied strictly. If you have a serious issue that causes you to miss two or more midterms (including the conflict), you need to contact your department's advising office and/or the [emergency dean](/policies/stressed).
 - [Project](/project.html): 25%
     - There will be a final project that is worth 25% of your final grade. We will grade based on the performance of your model and the short final report you deliver. 
 

@@ -99,7 +99,7 @@ Couple things to note about exams:
 - There will only be two midterms in this course (no final).
 - The final exam time is reserved for conflict exams that students who missed one or both of the midterms need to take.
 - All the midterms will be administered during lecture time in the usual lecture room. 
-- The final will be will be used as a time to make up any exams previously missed and will be scheduled according to the registrar's schedule. 
+- The final will be used as a time to make up any exams previously missed and will be scheduled according to the registrar's schedule. 
 
 ### Exam Policies
 
@@ -107,10 +107,10 @@ Besides the obvious "don't cheat" exam policies outlined in the [policies page](
 
 #### Conflict exam 
 
-So I recognize that exceptional instances happen that prevent someone from taking an exam. If at any point in the semester, something happens where you need to miss an exam, a conflict exam will be offered at the end of the semester doing the final exam period. You don't need prior approval or a "good" excuse. I have no interest being an arbiter of what is an isn't a valid excuse. You miss an exam, you can take it in the final exam period. You miss two exams, you take them both during the final exam period. Some clarifying issues: 
+So I recognize that exceptional instances happen that prevent someone from taking an exam. If at any point in the semester, something happens where you need to miss an exam, a conflict exam will be offered at the end of the semester doing the final exam period. You don't need prior approval or a "good" excuse. I have no interest being an arbiter of what is and isn't a valid excuse. You miss an exam, you can take it in the final exam period. You miss two exams, you take them both during the final exam period. Some clarifying issues: 
 
-- If you already took an exam, you can't take the conflict. The one exception is for students that did horribly on one exam (scored in the bottom 20% or the course), and then did great on another exam (scored in the top 20% of the course). In that case, please contact us and the staff will consider allowing a conflict as a sort of redemption. This policy is for students that would've have done great but just had a bad day. 
-- While I will do my best to ensure the standard and conflict are equal difficulty, I'm not perfect (no professor is) and theres always the possibility that nominal and conflict have differing difficulties. I will also curve the exams so that they have the same average but as someone that has been doing this a long time, the conflict exam will have fewer people making establishing a curve less stable. For this reason I strongly recommend taking the exam with the rest of the course during the normal exam time.  
+- If you already took an exam, you can't take the conflict. The one exception is for students that did horribly on one exam (scored in the bottom 20% of the course), and then did great on another exam (scored in the top 20% of the course). In that case, please contact us and the staff will consider allowing a conflict as a sort of redemption. This policy is for students that would've done great but just had a bad day. 
+- While I will do my best to ensure the standard and conflict are equal difficulty, I'm not perfect (no professor is) and there's always the possibility that the standard and conflict exams have differing difficulties. I will also curve the exams so that they have the same average but as someone that has been doing this a long time, the conflict exam will have fewer people, making establishing a curve less stable. For this reason I strongly recommend taking the exam with the rest of the course during the normal exam time.  
 - This policy applies to DRES students as well. 
 
 #### Cheatsheet
@@ -126,18 +126,17 @@ This lets me use problems that many of you have seen before but know that the pe
 
 #### Use pen
 
-The exams will be scanned and uploaded to Gradescope where they will be graded by the TAs. Unfortunately, last semester we had a problem with a number of individuals that used a pencil with a light touch causing the exam to be illegible. Therefore, we're banning pencils. I'm not going to go around confiscating pencils like some weird pen nazi, but if we see an exam that is difficult to read, we will take off points. Just use pen, if you need to change something you can always cross out the previous answer and make a note for the grader to look at the scratch page.  
+The exams will be scanned and uploaded to Gradescope where they will be graded by the TAs. Unfortunately, in the past we have had a problem with a number of individuals that used a pencil with a light touch causing the exam to be illegible. Therefore, we're banning pencils. I'm not going to go around confiscating pencils like some weird pen nazi, but if we see an exam that is difficult to read, we will take off points. Just use pen, if you need to change something you can always cross out the previous answer and make a note for the grader to look at the scratch page.  
 
 
 ### Regrades
 
-Regrades requests would be open for a week once grades are released. Regrade requests are not intended for arguing about point allocation, or whether the grading scale is fair.
+Regrade requests will be open for a week once grades are released. Regrade requests are not intended for arguing about point allocation, or whether the grading scale is fair.
 
 Unfortunately, certain students think that they can tire us into giving them point that they did not earn, by keep asking for unjustified regrade requests. As such, superfluous, argumentative and repetitive regrade requests, after an appropriate warning, would results in a zero on the relevant questions - please do not waste our time.
 
 ### DRES
-- If you have a DRES accommodation, please email the course staff directly (not sure if sending documents over Piazza is compliant with EHR policies or not, but why risk it). Make sure I respond that I've recorded your accommodation! If I don't respond email again. 
-- Because of the limited staff, DRES students will take the exams at the [TAC](https://www.disability.illinois.edu/academic-accommodations-and-supports/academic-accommodations/testing-accommodations) synchronously with the rest of the class. DRES students that need additional time for exams are expected to schedule exam proctoring with the Testing and Accommodation Facility. I'll try my best to send out reminder emails but it is your responsibility to make sure you have registered for TAC accommodations. 
+- If you have a DRES accommodation, please email the course staff directly (not sure if sending documents over Piazza is compliant with EHR policies or not, but why risk it). Make sure I respond that I've recorded your accommodation! If I don't respond, email again. 
+- Because of the limited staff, DRES students will take the exams at the [TAC](https://www.disability.illinois.edu/academic-accommodations-and-supports/academic-accommodations/testing-accommodations) synchronously with the rest of the class. DRES students that need additional time for exams are expected to schedule exam proctoring with the Testing and Accommodation Facility. I'll try my best to send out reminder emails, but it is your responsibility to make sure you have registered for TAC accommodations. 
 - Best thing you can do is to schedule the exams with TAC **now**. That way there is no chance on forgetting to schedule a slot and missing out on your accommodations.  
-- Regardless of if you have extra time, you are expected to show up to the exam on time. TAC will refuse to accept any individual that arrives to an exam more than 30 minutes late. I had tom implement this rule because in the past, I've had multiple DRES students have +50% time on the exam and show up to the exam late by that amount of time (effectively using the extra time as a opportunity to sleep in). Stuff like this makes it harder for DRES students that actually need accommodations to get so please do your best to show up to a exam on time.  
-
+- Regardless of if you have extra time, you are expected to show up to the exam on time. TAC will refuse to accept any individual that arrives to an exam more than 30 minutes late. I had to implement this rule because in the past, I've had multiple DRES students have +50% time on the exam and show up to the exam late by that amount of time (effectively using the extra time as an opportunity to sleep in). Stuff like this makes it harder for DRES students that actually need accommodations to get, so please do your best to show up to the exam on time.  

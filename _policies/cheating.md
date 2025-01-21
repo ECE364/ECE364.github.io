@@ -7,11 +7,11 @@ description: Post about the the course integrity policy.
 
 This policy statement is unfortunately necessary, thanks to the actions of a tiny minority of students. If you have any questions or concerns, please don't hesitate to ask in lecture, in lab, during office hours, on Piazza, or by email.
 
-tl;dr Links to an external site.: Be honest. Cite your sources. We mean it. If you need help, please ask. Don't be stupid!
+tl;dr Be honest. Cite your sources. We mean it. If you need help, please ask. Don't be stupid!
 
 #### Our expectations
 
-**Each student (or homework group) must write their own solutions, in their own words, and must properly credit all sources.**
+**Each student must write their own solutions, in their own words, and must properly credit all sources.**
 
 For more information and examples, see any of the following:
 
@@ -24,7 +24,7 @@ If you have any doubts about whether something constitutes plagiarism, talk to i
 ###### No generative AI 
 
 - Textbooks and online documentation are allowed to be used with the homeworks.  
-- You are not allowed to use generative AIs for the homeworks. I totally get that lots of people find generative AI to be a useful [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck) when coding, but I do not believe that is the way most people are using it. I totally understand the philosophical argument, but I've been doing this a while now and I firmly believe eliminating all struggle from learning harms students from becoming more intelligent the same way eliminating struggle from exercise eliminates any strength gains. And there's more research coming out that supports [this point of view](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486). 
+- You are not allowed to use generative AIs for the homeworks. I totally get that lots of people find generative AI to be a useful [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck) when coding, but I do not believe that is the way most people are using it. I totally understand the philosophical argument, but I've been doing this a while now, and I firmly believe eliminating all struggle from learning harms students from becoming more intelligent the same way eliminating struggle from exercise eliminates any strength gains. And there's more research coming out that supports [this point of view](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486). 
 
 #### Penalties
 
