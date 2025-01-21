@@ -26,7 +26,7 @@ roles:
     description: Something 3
   - key: faculty-alum
     name: Content Creators
-    description: Instructors who have created and contributed to the pool of 374 content.    
+    description: Instructors who have created and contributed to the pool of 364 content.    
   - key: grad-alum
     name: Alumni graduate teaching assistants 
     description: Past graduate teaching assistants. Most have created/contributed to the notes and problems/solutions.   
