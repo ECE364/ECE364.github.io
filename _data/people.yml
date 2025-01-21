@@ -6,12 +6,12 @@ kani:
     role: faculty
     image: /img/people/Kani.png
     bio: Teaching Assistant Professor 
-    # OHs: 
-    #   OH1:
-    #     time-start: "15:00"
-    #     time-end: "16:00"
-    #     day: Tuesday
-    #     location: 1039 CSL
+    OHs: 
+      OH1:
+        time-start: "16:00"
+        time-end: "17:00"
+        day: Thursday
+        location: 141 CSL
     #   OH2:
     #     time-start: "15:00"
     #     time-end: "16:00"
@@ -52,6 +52,12 @@ neeraj:
     role: grad
     image: /img/people/neeraj.jpg
     bio: Graduate Course Assistant
+    OHs: 
+      OH1:
+        time-start: "11:00"
+        time-end: "12:00"
+        day: Friday
+        location: 141 CSL
 
 suyuan:
     display_name: "Suyuan Wang"
@@ -61,7 +67,12 @@ suyuan:
     role: grad
     image: /img/people/suyuan.jpg
     bio: Graduate Course Assistant
-
+    OHs: 
+      OH1:
+        time-start: "11:00"
+        time-end: "12:00"
+        day: Wednesday
+        location: 221 CSL
 ### Undergraduate TAs
 
 vishesh:
@@ -72,6 +83,17 @@ vishesh:
     role: ugrad
     image: /img/people/vishesh.png
     bio: Undergraduate Researcher
+    OHs: 
+      OH1:
+        time-start: "10:00"
+        time-end: "12:00"
+        day: Thursday
+        location: 141 CSL
+      OH2:
+        time-start: "12:00"
+        time-end: "14:00"
+        day: Friday
+        location: 141 CSL
 
 jeffshin:
     display_name: "Jeff Shin"
