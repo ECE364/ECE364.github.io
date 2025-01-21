@@ -7,7 +7,7 @@ title: Homeworks
   <tr>
     <th> # </th>
     <th>Topic</th>
-    <th>Problems</th>
+    <th>|Problems|</th>
     <th>Assigned</th>
     <th>Due</th>
     <th>Questions</th>
