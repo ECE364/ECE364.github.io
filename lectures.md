@@ -4,7 +4,7 @@ title: Lectures
 
 ---
 
-I would like to thank Prof. [Alexander Schwing](https://www.alexander-schwing.de/), Prof. [Aigou Han](https://beam.vt.edu/people/faculty/han.html), Prof. [Farzas Kamalabadi](https://ece.illinois.edu/about/directory/faculty/farzadk), and Prof. [Corey Synder](https://grainger.illinois.edu/about/directory/faculty/cesnyde2) for their support and lecture documents which I've based much of my own work on. 
+I would like to thank Prof. [Alexander Schwing](https://www.alexander-schwing.de/), Prof. [Aigou Han](https://beam.vt.edu/people/faculty/han.html), Prof. [Farzad Kamalabadi](https://ece.illinois.edu/about/directory/faculty/farzadk), and Prof. [Corey Synder](https://grainger.illinois.edu/about/directory/faculty/cesnyde2) for their support and lecture documents which I've based much of my own work on. 
 
 Also, quick hint, icons are links to slides and video contents! 
 
