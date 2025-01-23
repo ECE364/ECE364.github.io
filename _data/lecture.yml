@@ -9,7 +9,7 @@ lec1:
   num: 1
   title: Lecture 1 - PyTorch storage, indexing, cpu/gpu data types, functions
   deliverydate: 2025-01-23 
-  link-slides: 
+  link-slides: materials/lectures/lec1/Lecture1_Kani.html
   link-recording: 
 
 lec2:
