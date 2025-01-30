@@ -3,14 +3,16 @@ layout: default
 title: Homeworks
 ---
 
+Homework assignments can be found on the PrarieLearn site (link on main page). 
+
 <table id="customers">
   <tr>
     <th> # </th>
     <th>Topic</th>
-    <th>|Problems|</th>
+    <!-- <th>|Problems|</th> -->
     <th>Assigned</th>
     <th>Due</th>
-    <th>Questions</th>
+    <!-- <th>Questions</th> -->
     <!-- <th>Solutions</th> -->
   </tr>
   {% for iteml in site.data.homework %}  
@@ -18,10 +20,10 @@ title: Homeworks
     <tr>
         <td>{{ item.num }}</td>
         <td> {{ item.topic }} </td>
-        <td> {{ item.num-problems }} </td>
+        <!-- <td> {{ item.num-problems }} </td> -->
         <td> {{ item.assigned-date | date: "%b %d" }} </td>
         <td> {{ item.due-date | date: "%b %d" }} </td>
-        <td> 
+        <!-- <td> 
             {% if item.questions-link %}
             <a href="{{ site.base }}{{ item.questions-link }}"
                 style="text-decoration: none">
@@ -31,7 +33,7 @@ title: Homeworks
                     src="{{ site.base }}/img/icons/lab_questions.png" />
             </a>
             {% endif %}
-        </td>
+        </td> -->
         <!-- <td> 
             {% if item.solutions-link %}
             <a href="{{ site.base }}{{ item.solutions-link }}"
