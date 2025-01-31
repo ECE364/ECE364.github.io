@@ -6,7 +6,7 @@ title: Lectures
 
 I would like to thank Prof. [Alexander Schwing](https://www.alexander-schwing.de/), Prof. [Aigou Han](https://beam.vt.edu/people/faculty/han.html), Prof. [Farzad Kamalabadi](https://ece.illinois.edu/about/directory/faculty/farzadk), and Prof. [Corey Synder](https://grainger.illinois.edu/about/directory/faculty/cesnyde2) for their support and lecture documents which I've based much of my own work on. 
 
-Also, quick hint, icons are links to slides and video contents! 
+Also, quick hint, icons are links to slides and video contents! Also if the video link hasn't appeared on the website, you can check the [mediaspace](https://mediaspace.illinois.edu/channel/ECE%2B364%2BSpring%2B2025/368601222) channel directly!
 
 <table id="customers">
   <tr>
