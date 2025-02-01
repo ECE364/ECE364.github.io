@@ -3,7 +3,7 @@ lec0:
   title: Lecture 0 - PyTorch Intro, tensors, views, indexing
   deliverydate: 2025-01-21 
   link-slides: materials/lectures/lec0/Lecture0_Kani.html
-  link-code: materials/lectures/lec0/Lec0_Kani_release.html
+  link-code: materials/lectures/lec0/Lec0_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_5vpn2azg/368601222
 
 lec1:
@@ -11,7 +11,7 @@ lec1:
   title: Lecture 1 - PyTorch storage, indexing, cpu/gpu data types, functions
   deliverydate: 2025-01-23 
   link-slides: materials/lectures/lec1/Lecture1_Kani.html
-  link-code: materials/lectures/lec1/Lec1_Kani_release.html
+  link-code: materials/lectures/lec1/Lec1_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_y3p3mnmc/368601222
 
 lec2:
@@ -19,7 +19,7 @@ lec2:
   title: Lecture 2 - Linear algebra I
   deliverydate: 2025-01-28 
   link-slides: materials/lectures/lec2/Lecture2_Kani.html
-  link-code: materials/lectures/lec2/Lec2_Kani_release.html
+  link-code: materials/lectures/lec2/Lec2_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_k1csnla1/368601222
 
 lec3:
@@ -27,7 +27,7 @@ lec3:
   title: Lecture 3 - Linear algebra II
   deliverydate: 2025-01-30
   link-slides: materials/lectures/lec3/Lecture3_Kani.html
-  link-code: materials/lectures/lec3/Lec3_Kani_release.html
+  link-code: materials/lectures/lec3/Lec3_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_5vcj285n
 
 lec4:
