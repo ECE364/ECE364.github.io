@@ -3,6 +3,7 @@ lec0:
   title: Lecture 0 - PyTorch Intro, tensors, views, indexing
   deliverydate: 2025-01-21 
   link-slides: materials/lectures/lec0/Lecture0_Kani.html
+  link-code: materials/lectures/lec0/Lec0_Kani_release.html
   link-recording: https://mediaspace.illinois.edu/media/t/1_5vpn2azg/368601222
 
 lec1:
@@ -10,6 +11,7 @@ lec1:
   title: Lecture 1 - PyTorch storage, indexing, cpu/gpu data types, functions
   deliverydate: 2025-01-23 
   link-slides: materials/lectures/lec1/Lecture1_Kani.html
+  link-code: materials/lectures/lec1/Lec1_Kani_release.html
   link-recording: https://mediaspace.illinois.edu/media/t/1_y3p3mnmc/368601222
 
 lec2:
@@ -17,6 +19,7 @@ lec2:
   title: Lecture 2 - Linear algebra I
   deliverydate: 2025-01-28 
   link-slides: materials/lectures/lec2/Lecture2_Kani.html
+  link-code: materials/lectures/lec2/Lec2_Kani_release.html
   link-recording: https://mediaspace.illinois.edu/media/t/1_k1csnla1/368601222
 
 lec3:
@@ -24,6 +27,7 @@ lec3:
   title: Lecture 3 - Linear algebra II
   deliverydate: 2025-01-30
   link-slides: materials/lectures/lec3/Lecture3_Kani.html
+  link-code: materials/lectures/lec3/Lec3_Kani_release.html
   link-recording: https://mediaspace.illinois.edu/media/t/1_5vcj285n
 
 lec4:
@@ -31,6 +35,7 @@ lec4:
   title: Lecture 4 - Auto-differentiation I
   deliverydate: 2025-02-04
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec5:
@@ -38,6 +43,7 @@ lec5:
   title: Lecture 5 - Auto-differentiation II
   deliverydate: 2025-02-06 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec6:
@@ -45,6 +51,7 @@ lec6:
   title: Lecture 6 - Primal optimization
   deliverydate: 2025-02-11
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec7:
@@ -52,6 +59,7 @@ lec7:
   title: Lecture 7 - Linear regression I
   deliverydate: 2025-02-13
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec8:
@@ -59,6 +67,7 @@ lec8:
   title: Lecture 8 - Linear regression II
   deliverydate: 2025-02-18 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec9:
@@ -66,6 +75,7 @@ lec9:
   title: Lecture 9 - Logistic regression
   deliverydate: 2025-02-20
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec10:
@@ -73,6 +83,7 @@ lec10:
   title: Lecture 10 - Multi-class logistic regression
   deliverydate: 2025-02-25 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec11:
@@ -80,6 +91,7 @@ lec11:
   title: Lecture 11 - PyTorch optimizers, datasets, dataloaders I
   deliverydate: 2025-02-27 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec12:
@@ -87,6 +99,7 @@ lec12:
   title: Lecture 12 - PyTorch optimizers, datasets, dataloaders II
   deliverydate: 2025-03-04 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec13:
@@ -94,6 +107,7 @@ lec13:
   title: Lecture 13 - Review for MT1
   deliverydate: 2025-03-06
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec14:
@@ -101,6 +115,7 @@ lec14:
   title: Lecture 14 - Deep Nets I - Simple, multi-layer networks
   deliverydate: 2025-03-25 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec15:
@@ -108,6 +123,7 @@ lec15:
   title: Lecture 15 - Deep Nets II - Convolutional networks
   deliverydate: 2025-03-27 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec16:
@@ -115,6 +131,7 @@ lec16:
   title: Lecture 16 - Deep Nets III - Recurrent networks
   deliverydate: 2025-04-01 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec17:
@@ -122,6 +139,7 @@ lec17:
   title: Lecture 17 - Principal component analysis
   deliverydate: 2025-04-03
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec18:
@@ -129,6 +147,7 @@ lec18:
   title: Lecture 18 - K-means clustering, gaussian mixture models
   deliverydate: 2025-04-08
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec19:
@@ -136,6 +155,7 @@ lec19:
   title: Lecture 19 - Generative adversarial networks
   deliverydate: 2025-04-10 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec20:
@@ -143,6 +163,7 @@ lec20:
   title: Lecture 20 - Object detection, semantic segmentation
   deliverydate: 2025-04-15
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec21:
@@ -150,6 +171,7 @@ lec21:
   title: Lecture 21 - Words and attention
   deliverydate: 2025-04-17 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec22:
@@ -157,6 +179,7 @@ lec22:
   title: Lecture 22 - Transformer models
   deliverydate: 2025-04-22 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec23:
@@ -164,6 +187,7 @@ lec23:
   title: Lecture 23 - Large language models I - architectures and training
   deliverydate: 2025-04-24 
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec24:
@@ -171,6 +195,7 @@ lec24:
   title: Lecture 24 - Large language models II - fine-tuning methods
   deliverydate: 2025-04-29
   link-slides: 
+  link-code: 
   link-recording: 
 
 lec25:
@@ -178,4 +203,5 @@ lec25:
   title: Lecture 25 - Course recap and celebration 
   deliverydate: 2025-05-06 
   link-slides: 
+  link-code: 
   link-recording: 

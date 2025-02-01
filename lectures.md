@@ -13,7 +13,8 @@ Also, quick hint, icons are links to slides and video contents! Also if the vide
     <th> # </th>
     <th>Title</th>
     <th>Date</th>
-    <th>Slides</th>
+    <th>Slides(HTML)</th>
+    <th>Slides(Code)</th>
     <th>Recording</th>
     <!-- <th>Solutions</th> -->
   </tr>
@@ -31,6 +32,17 @@ Also, quick hint, icons are links to slides and video contents! Also if the vide
                     alt="Lecture {{ item.num }} slides"
                     title="Lecture {{ item.num }} slides"
                     src="{{ site.base }}/img/icons/slide_clean_3.png" />
+            </a>
+            {% endif %}
+        </td>
+        <td> 
+            {% if item.link-code %}
+            <a href="{{ site.base }}{{ item.link-code }}"
+                style="text-decoration: none">
+                <img class="homework-icon"
+                    alt="Lecture {{ item.num }} code"
+                    title="Lecture {{ item.num }} code"
+                    src="{{ site.base }}/img/icons/slide_code.png" />
             </a>
             {% endif %}
         </td>
