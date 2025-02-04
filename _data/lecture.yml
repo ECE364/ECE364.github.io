@@ -24,7 +24,7 @@ lec2:
 
 lec3:
   num: 3
-  title: Lecture 3 - Linear algebra II
+  title: Lecture 3 - Linear algebra II & Matrix algebra
   deliverydate: 2025-01-30
   link-slides: materials/lectures/lec3/Lecture3_Kani.html
   link-code: materials/lectures/lec3/Lec3_Kani_release.zip
@@ -32,15 +32,15 @@ lec3:
 
 lec4:
   num: 4
-  title: Lecture 4 - Auto-differentiation I
+  title: Lecture 4 - Matrix calculus II and computation graphs
   deliverydate: 2025-02-04
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec4/Lecture04_Kani.html
+  link-code: materials/lectures/lec4/Lec4_Kani_release.zip
   link-recording: 
 
 lec5:
   num: 5
-  title: Lecture 5 - Auto-differentiation II
+  title: Lecture 5 - Gradient descent 
   deliverydate: 2025-02-06 
   link-slides: 
   link-code: 
