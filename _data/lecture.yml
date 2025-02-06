@@ -42,8 +42,8 @@ lec5:
   num: 5
   title: Lecture 5 - Gradient descent 
   deliverydate: 2025-02-06 
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec05/Lecture05_Kani.html
+  link-code: materials/lectures/lec05/Lec5_Kani_release.zip
   link-recording: 
 
 lec6:
