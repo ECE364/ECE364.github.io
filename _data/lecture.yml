@@ -4,7 +4,7 @@ lec0:
   deliverydate: 2025-01-21 
   link-slides: materials/lectures/lec0/Lecture0_Kani.html
   link-code: materials/lectures/lec0/Lec0_Kani_release.zip
-  link-recording: https://mediaspace.illinois.edu/media/t/1_5vpn2azg/368601222
+  link-recording: https://mediaspace.illinois.edu/media/t/1_5vpn2azg
 
 lec1:
   num: 1
@@ -12,7 +12,7 @@ lec1:
   deliverydate: 2025-01-23 
   link-slides: materials/lectures/lec1/Lecture1_Kani.html
   link-code: materials/lectures/lec1/Lec1_Kani_release.zip
-  link-recording: https://mediaspace.illinois.edu/media/t/1_y3p3mnmc/368601222
+  link-recording: https://mediaspace.illinois.edu/media/t/1_y3p3mnmc
 
 lec2:
   num: 2
@@ -20,7 +20,7 @@ lec2:
   deliverydate: 2025-01-28 
   link-slides: materials/lectures/lec2/Lecture2_Kani.html
   link-code: materials/lectures/lec2/Lec2_Kani_release.zip
-  link-recording: https://mediaspace.illinois.edu/media/t/1_k1csnla1/368601222
+  link-recording: https://mediaspace.illinois.edu/media/t/1_k1csnla1
 
 lec3:
   num: 3
@@ -36,7 +36,7 @@ lec4:
   deliverydate: 2025-02-04
   link-slides: materials/lectures/lec4/Lecture04_Kani.html
   link-code: materials/lectures/lec4/Lec4_Kani_release.zip
-  link-recording: 
+  link-recording: https://mediaspace.illinois.edu/media/t/1_1j9ahiz2
 
 lec5:
   num: 5
@@ -44,7 +44,7 @@ lec5:
   deliverydate: 2025-02-06 
   link-slides: materials/lectures/lec05/Lecture05_Kani.html
   link-code: materials/lectures/lec05/Lec5_Kani_release.zip
-  link-recording: 
+  link-recording: https://mediaspace.illinois.edu/media/t/1_gs8msh4d
 
 lec6:
   num: 6
