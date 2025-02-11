@@ -50,8 +50,8 @@ lec6:
   num: 6
   title: Lecture 6 - Primal optimization
   deliverydate: 2025-02-11
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec06/Lecture06_Kani.html
+  link-code: materials/lectures/lec06/Lec06_Kani_release.zip
   link-recording: 
 
 lec7:
