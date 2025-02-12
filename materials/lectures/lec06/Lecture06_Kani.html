@@ -14610,7 +14610,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Whats's-primal-optimization?">Whats's primal optimization?<a class="anchor-link" href="#Whats's-primal-optimization?">&#182;</a></h2>
+<h2 id="What's-primal-optimization?">What's primal optimization?<a class="anchor-link" href="#What's-primal-optimization?">&#182;</a></h2>
 </div>
 </div>
 </div>
@@ -14820,7 +14820,7 @@ $$</p>
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p><strong>Why is convexity important?</strong></p>
 <ul>
-<li><p><strong>1. Global Optimality Guarantee</strong> If a function <strong>is convex</strong>, any <strong>local minimum is also a global minimum</strong>. This is a crucial property because, in general, non-convex functions may have multiple local minima, making it difficult to find the best solution. Formally, for a convex function $ f(x) $, if $ x^* $ satisfies:</p>
+<li><p><strong>Global Optimality Guarantee</strong> If a function <strong>is convex</strong>, any <strong>local minimum is also a global minimum</strong>. This is a crucial property because, in general, non-convex functions may have multiple local minima, making it difficult to find the best solution. Formally, for a convex function $ f(x) $, if $ x^* $ satisfies:</p>
 <p>$$
 \nabla f(x^*) = 0
 $$</p>
@@ -14892,7 +14892,7 @@ $$
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p><strong>How to select direction $d_k$</strong></p>
 <ul>
-<li>Steepest Descent: $d_k = \nabla f(w_k)$ </li>
+<li>Steepest Descent: $d_k = -\nabla f(w_k)$ </li>
 </ul>
 <p><img align="center" src="img/descent.png" width="400px" style="padding:30px;border:thin solid white;"></p>
 
@@ -14908,7 +14908,7 @@ $$
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p>Other directions also used:</p>
 <ul>
-<li><strong>Scaled gradient</strong> $d_k = -D_k \nabla f(w_k) where $D_k$ is a scalign matrix (also called preconditioner)</li>
+<li><strong>Scaled gradient</strong> $d_k = -D_k \nabla f(w_k)$ where $D_k$ is a scaling matrix (also called preconditioner)</li>
 <li>etc. </li>
 </ul>
 
@@ -14967,7 +14967,7 @@ $$ \alpha_k = \mathbb{R} $$</p>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p><strong>How to Select Stepsize (continued)</strong></p>
-<p><strong>Optimal line search</strong> At every iteration ( k ), <strong>optimal line search</strong> computes the step size ( \varepsilon_k ) as follows:</p>
+<p><strong>Optimal line search</strong> At every iteration $k$, <strong>optimal line search</strong> computes the step size $ \varepsilon_k $ as follows:</p>
 $$
 \varepsilon_k = \arg \min_{\varepsilon \geq 0} f(\mathbf{x}_k + \varepsilon d_k). \tag{3.3}
 $$<p>Clearly, the above problem presumes a chosen <strong>direction of motion</strong> $ d_k $. The method searches for the value of $ \varepsilon_k $ over the half-line $ [0, \infty) $, therefore it is called <strong>optimal line search</strong>.</p>
@@ -14985,8 +14985,8 @@ $$<p>Clearly, the above problem presumes a chosen <strong>direction of motion</s
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><strong>Armijo’s Rule in Machine Learning</strong>
-<strong>Armijo’s rule</strong> is a step size selection method used in <strong>gradient-based optimization</strong> to ensure sufficient <strong>decrease in the objective function</strong> while maintaining stability. It is widely used in <strong>line search methods</strong> for optimization, particularly in <strong>gradient descent, Newton’s method, and quasi-Newton methods</strong>.</p>
+<p><strong>Armijo’s Rule in Machine Learning</strong></p>
+<p><strong>Armijo’s rule</strong> is a step size selection method used in <strong>gradient-based optimization</strong> to ensure sufficient <strong>decrease in the objective function</strong> while maintaining stability. It is widely used in <strong>line search methods</strong> for optimization, particularly in <strong>gradient descent, Newton’s method, and quasi-Newton methods</strong>.</p>
 <hr>
 <p><strong>Armijo’s Rule for Step Size Selection</strong>
 Armijo’s rule uses a <strong>backtracking approach</strong> to find a suitable step size $ \alpha $:</p>
@@ -15088,7 +15088,7 @@ $$</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><img align="center" src="img/gradient_descent_principle_component.png" width="600px" style="padding:30px;border:thin solid white;"></p>
+<p><img align="center" src="img/gradient_descent_principle_component.png" width="800px" style="padding:30px;border:thin solid white;"></p>
 <p>The ratio between the length of the longest and shortest principle axes of this ellipse is known as the condition number:</p>
 $$\kappa = \left(\frac{a}{b}\right)^2$$<p>In order to get within $\epsilon$ of a minima, we need $\geq \kappa \log\left(\frac{1}{\epsilon}\right)$ iterations <a href="https://en.wikipedia.org/wiki/Condition_number">Gradient Descent Condition Number Dependence</a></p>
 
@@ -15225,9 +15225,9 @@ $$</p>
 </ol>
 <p>where:</p>
 <ul>
-<li>( \alpha ) is the <strong>learning rate</strong>.</li>
-<li>( \beta \in [0,1] ) is the <strong>momentum coefficient</strong>, typically <strong>0.9</strong>.</li>
-<li>( v_k ) is the <strong>velocity term</strong> (tracks accumulated gradients).</li>
+<li>$ \alpha $ is the <strong>learning rate</strong>.</li>
+<li>$ \beta \in [0,1] $ is the <strong>momentum coefficient</strong>, typically <strong>0.9</strong>.</li>
+<li>$ v_k $ is the <strong>velocity term</strong> (tracks accumulated gradients).</li>
 </ul>
 <hr>
 <p><strong>Intuition Behind Momentum</strong></p>
