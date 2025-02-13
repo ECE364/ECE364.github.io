@@ -58,8 +58,8 @@ lec7:
   num: 7
   title: Lecture 7 - Linear regression I
   deliverydate: 2025-02-13
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec07/Lecture07_Kani.html
+  link-code: materials/lectures/lec07/Lec07_Kani_release.zip
   link-recording: 
 
 lec8:
