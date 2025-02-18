@@ -66,8 +66,8 @@ lec8:
   num: 8
   title: Lecture 8 - Linear regression II
   deliverydate: 2025-02-18 
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec08/Lecture08_Kani.html
+  link-code: materials/lectures/lec08/Lec08_Kani_release.zip
   link-recording: 
 
 lec9:
