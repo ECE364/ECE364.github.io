@@ -60,7 +60,7 @@ lec7:
   deliverydate: 2025-02-13
   link-slides: materials/lectures/lec07/Lecture07_Kani.html
   link-code: materials/lectures/lec07/Lec07_Kani_release.zip
-  link-recording: 
+  link-recording: https://mediaspace.illinois.edu/media/t/1_w3iz41uo
 
 lec8:
   num: 8
@@ -68,14 +68,14 @@ lec8:
   deliverydate: 2025-02-18 
   link-slides: materials/lectures/lec08/Lecture08_Kani.html
   link-code: materials/lectures/lec08/Lec08_Kani_release.zip
-  link-recording: 
+  link-recording: https://mediaspace.illinois.edu/media/t/1_oao6w3wh
 
 lec9:
   num: 9
   title: Lecture 9 - Logistic regression
   deliverydate: 2025-02-20
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec09/Lecture09_Kani.html
+  link-code: materials/lectures/lec08/Lec09_Kani_release.zip
   link-recording: 
 
 lec10:
