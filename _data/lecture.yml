@@ -98,8 +98,8 @@ lec12:
   num: 12
   title: Lecture 12 - PyTorch optimizers, datasets, dataloaders II
   deliverydate: 2025-03-04 
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec12/Lecture12_Kani.html
+  link-code: materials/lectures/lec12/Lec12_Kani_release.zip
   link-recording: 
 
 lec13:
