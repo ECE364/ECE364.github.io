@@ -2,11 +2,11 @@ MT1:
   num: 1
   topic: PyTorch, linear-algebra, regression basics 
   date: 2025-03-11
-  samp_exam1: 
+  samp_exam1: /materials/exams/MT1/ECE364_MT1_sample.pdf
   samp_exam2: 
-  samp_exam1_sol: 
+  samp_exam1_sol: /materials/exams/MT1/ECE364_MT1_sample_sols.pdf
   samp_exam2_sol: 
-  skillset: 
+  skillset: /materials/exams/MT1/ECE364_MT1_skillset.pdf
   cheat_sheet: 
   exam_questions: 
   exam_solutions: 
