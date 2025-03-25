@@ -114,8 +114,8 @@ lec14:
   num: 14
   title: Lecture 14 - Deep Nets I - Simple, multi-layer networks
   deliverydate: 2025-03-25 
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec14/Lecture14_Kani.html
+  link-code: materials/lectures/lec14/Lec14_Kani_release.zip
   link-recording: 
 
 lec15:
