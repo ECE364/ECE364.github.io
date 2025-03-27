@@ -122,8 +122,8 @@ lec15:
   num: 15
   title: Lecture 15 - Deep Nets II - Convolutional networks
   deliverydate: 2025-03-27 
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec15/Lecture15_Kani.html
+  link-code: materials/lectures/lec15/Lec15_Kani_release.zip
   link-recording: 
 
 lec16:
