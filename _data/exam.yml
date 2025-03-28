@@ -8,8 +8,8 @@ MT1:
   samp_exam2_sol: 
   skillset: /materials/exams/MT1/ECE364_MT1_skillset.pdf
   cheat_sheet: /materials/exams/MT1/ECE364_MT1_cheatsheet.pdf
-  exam_questions: 
-  exam_solutions: 
+  exam_questions: /materials/exams/MT1/ECE364_MT1_sp25_final.pdf
+  exam_solutions: /materials/exams/MT1/ECE364_MT1_sol_sp25_final.pdf
 
 MT2: 
   num: 2
