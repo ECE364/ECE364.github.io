@@ -130,8 +130,8 @@ lec16:
   num: 16
   title: Lecture 16 - Deep Nets III - Recurrent networks
   deliverydate: 2025-04-01 
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec16/Lecture16_Kani.html
+  link-code:  materials/lectures/lec16/Lec16_Kani_release.zip
   link-recording: 
 
 lec17:
