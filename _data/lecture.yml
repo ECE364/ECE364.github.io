@@ -138,8 +138,8 @@ lec17:
   num: 17
   title: Lecture 17 - Principal component analysis
   deliverydate: 2025-04-03
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec17/Lecture17_Kani.html
+  link-code: materials/lectures/lec17/Lec17_Kani_release.zip
   link-recording: 
 
 lec18:
