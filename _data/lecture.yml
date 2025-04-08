@@ -146,8 +146,8 @@ lec18:
   num: 18
   title: Lecture 18 - K-means clustering, gaussian mixture models
   deliverydate: 2025-04-08
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec18/Lecture18_Kani.html
+  link-code: materials/lectures/lec18/Lec18_Kani_release.zip
   link-recording: 
 
 lec19:
