@@ -154,8 +154,8 @@ lec19:
   num: 19
   title: Lecture 19 - Generative adversarial networks
   deliverydate: 2025-04-10 
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec19/Lecture19_Kani.html
+  link-code: materials/lectures/lec19/Lec19_Kani_release.zip
   link-recording: 
 
 lec20:
