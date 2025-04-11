@@ -12,4 +12,6 @@ This is the first time I am teaching the course and as such I am still ironing o
 * We will give a prize to the top performing model in each task (something like a full letter grade bump on your final grade, maybe more if it's a one-person team)
 * We will also give a prize to the best report (same award as above).
 
-More details will be released right after the first midterm. This project is meant to let everyone have fun and get your feet wet building machine learning models in PyTorch. Hopefully it'll be something you can show off and talk about in interviews. 
+More details will be released right after the first midterm. This project is meant to let everyone have fun and get your feet wet building machine learning models in PyTorch. Hopefully it'll be something you can show off and talk about in interviews.
+
+* Link to the project descriptions and data: [https://github.com/ECE364/projects_sp25](https://github.com/ECE364/projects_sp25)
