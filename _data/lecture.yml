@@ -162,8 +162,8 @@ lec20:
   num: 20
   title: Lecture 20 - Object detection, semantic segmentation
   deliverydate: 2025-04-15
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec20/Lecture20_Kani.html
+  link-code: materials/lectures/lec20/Lec20_Kani_release.zip
   link-recording: 
 
 lec21:
