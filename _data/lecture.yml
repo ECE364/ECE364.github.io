@@ -170,8 +170,8 @@ lec21:
   num: 21
   title: Lecture 21 - Words and attention
   deliverydate: 2025-04-17 
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec21/Lecture21_Kani.html
+  link-code: materials/lectures/lec21/Lec21_Kani_release.zip
   link-recording: 
 
 lec22:
