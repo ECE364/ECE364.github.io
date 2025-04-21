@@ -3,15 +3,43 @@ layout: default
 title: Project
 ---
 
-This is the first time I am teaching the course and as such I am still ironing out the project details. However, the staff and I know that we want to have a final project where you guys build a machine learning model to perform a particular machine learning task. Here are some preliminary details about the project: 
+The final project is designed to give you experience implementing a machine learning model on a real-world dataset—without me telling you what method to use. We want you to explore any creative or unconventional methods you can think of! This is a completely open-ended problem, and the most important thing I want to see is **effort**. So let's go over the project details:
 
-* It will be a group optional project where you may form groups of *up to* three people (you may go it alone, up to you). 
-* There will be three machine learning tasks corresponding to three different areas of machine learning (natural-language processing, computer vision, and signal processing).
-* You will have to submit your code and a short report (2-3 pages) detailing the method(s) you used and how well you model worked.  
-* We will host a leaderboard where groups can submit their models and see how well they stack up to the rest of their coursemates: 
-* We will give a prize to the top performing model in each task (something like a full letter grade bump on your final grade, maybe more if it's a one-person team)
-* We will also give a prize to the best report (same award as above).
+### Topics
 
-More details will be released right after the first midterm. This project is meant to let everyone have fun and get your feet wet building machine learning models in PyTorch. Hopefully it'll be something you can show off and talk about in interviews.
+There are three project topics covering a range of machine learning tasks:
 
-* Link to the project descriptions and data: [https://github.com/ECE364/projects_sp25](https://github.com/ECE364/projects_sp25)
+1. [Identify Chinese characters (computer vision)](materials/project/ECE364_Project_T1_SP25.pdf) — You will be given images containing a mix of handwritten numeric digits and Chinese characters. Your task is to identify and draw bounding boxes around the Chinese characters.
+2. [Informative tweets (sentiment analysis)](materials/project/ECE364_Project_T2_SP25.pdf) — Based on the WNUT-2020 competition, you are given a dataset of tweets related to the COVID-19 pandemic. Your job is to identify which tweets are informative.
+3. [Virtual bidding in electric markets (trend prediction)](materials/project/ECE364_Project_T3_SP25.pdf) — Develop a classification algorithm and trading strategy to identify profitable trading opportunities.
+
+### Dataset
+
+The datasets are hosted on GitHub [here](https://github.com/ECE364/projects_sp25).
+
+### Kaggle Competition
+
+To make things more exciting, we are hosting a competition on Kaggle! You will submit your best runs to Kaggle (details are in the project description files).  
+The top individual or team for each topic will receive a prize:
+- **Individuals**: Full letter grade bump
+- **Teams (two or more members)**: Half-letter grade bump
+
+We hope this will encourage you to try new methods and explore the current state-of-the-art models in machine learning.  
+We will be verifying the winners and ensuring the submitted numbers come from models that follow the competition rules.  
+**Important:** Make sure to set a random seed so that your training is reproducible.
+
+### Teams
+
+You may work in teams of up to three people and only need to complete one of the three project topics. There’s a variety to choose from, so pick the one that interests you most!
+
+### Deliverables
+
+You must submit:
+- Your code
+- A two-page report describing what you did, what you tried, whether it worked, and what you would do differently next time.
+
+### Due Dates
+
+There are two important deadlines:
+- **Kaggle competition closes:** May 5th (Monday before Reading Day)
+- **Two-page report due:** May 12th (Monday)
