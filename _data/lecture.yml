@@ -176,7 +176,7 @@ lec21:
 
 lec22:
   num: 22
-  title: Lecture 22 - Transformer models
+  title: Lecture 22 - Transformers I
   deliverydate: 2025-04-22 
   link-slides: 
   link-code: 
@@ -184,7 +184,7 @@ lec22:
 
 lec23:
   num: 23
-  title: Lecture 23 - Large language models I - architectures and training
+  title: Lecture 23 - Transformers II
   deliverydate: 2025-04-24 
   link-slides: 
   link-code: 
@@ -192,7 +192,7 @@ lec23:
 
 lec24:
   num: 24
-  title: Lecture 24 - Large language models II - fine-tuning methods
+  title: Lecture 24 - Large language models - fine-tuning methods
   deliverydate: 2025-04-29
   link-slides: 
   link-code: 
