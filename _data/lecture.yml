@@ -178,8 +178,8 @@ lec22:
   num: 22
   title: Lecture 22 - Transformers I
   deliverydate: 2025-04-22 
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec22/Lecture22_Kani.html
+  link-code: materials/lectures/lec22/Lec22_Kani_release.zip
   link-recording: 
 
 lec23:
