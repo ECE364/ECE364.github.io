@@ -19,15 +19,15 @@ MT2:
   samp_exam2: 
   samp_exam1_sol: 
   samp_exam2_sol: 
-  skillset: /materials/exams/MT1/ECE364_MT2_skillset.pdf
-  cheat_sheet: 
+  skillset: /materials/exams/MT2/ECE364_MT2_skillset.pdf
+  cheat_sheet: /materials/exams/MT2/ECE364_MT2_cheatsheet.pdf
   exam_questions: 
   exam_solutions: 
 
 Conflict: 
   num: 3
   topic: Conflict exam(s) (during final period) 
-  date: TBD  
+  date: 2025-05-12  
   samp_exam: 
   skillset: 
   cheat_sheet: 
