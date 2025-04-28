@@ -15,9 +15,9 @@ MT2:
   num: 2
   topic: Deep nets and advanced ML models 
   date: 2025-05-01
-  samp_exam1: 
+  samp_exam1: /materials/exams/MT2/ECE364_MT2_sample.pdf
   samp_exam2: 
-  samp_exam1_sol: 
+  samp_exam1_sol: /materials/exams/MT2/ECE364_MT2_sample_sols.pdf
   samp_exam2_sol: 
   skillset: /materials/exams/MT2/ECE364_MT2_skillset.pdf
   cheat_sheet: /materials/exams/MT2/ECE364_MT2_cheatsheet.pdf
