@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ site.name }}: {{ page.title }}</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+              integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+              crossorigin="anonymous"> -->
+        <link href="{{ site.base }}/css/bootstrap.min.css" rel="stylesheet">      
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-- <link href="{{ site.base }}/css/font-awesome.min.css" rel="stylesheet"> 
+        Cabn't use this because icons stop working. but keepign this in in case font-awesome disappears-->     
+        <link rel="stylesheet" href="{{ site.base }}/css/group.css">
+        <link rel="stylesheet" href="{{ site.base }}/css/github.css">
+        <link rel="stylesheet" href="{{ site.base }}/css/blockquote.css">
+        <link rel="stylesheet" href="{{ site.base }}/css/OHs_styling.css">
+    </head>
+    <body>
+        <div class="container">
+            <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
+            <div class="header d-flex
+                        flex-column
+                        flex-md-row justify-content-md-between">
+                <a href="{{ site.base }}/" class="">
+                    {% if site.archived != true %}
+                    <img src="{{ site.base }}/img/logo/logo-ece364.png"
+                         alt="Group logo" id="logo"> <!-- had some srcset stuff hear that I removed. I guess its for serving a logo at different resolution screens but it was messing up the page when it rendered on Github so I removed it.-->
+                    {% else %}
+                    <img src="{{ site.base }}/img/logo/logo-ece364.png"
+                         alt="Group logo" id="logo"> <!-- had some srcset stuff hear that I removed. I guess its for serving a logo at different resolution screens but it was messing up the page when it rendered on Github so I removed it.-->    
+                    {% endif %}
+                </a>
+                <ul class="nav nav-pills justify-content-center align-items-end">
+
+                    {% assign shorturl = page.url | replace:'.html','' | replace:'index','' %}
+                    {% for item in site.navigation %}
+
+                        {% assign itemshorturl = item.link | replace:'.html','' %}
+
+                        {% assign maybe-active = '' %}
+                        {% if item.title == 'Research' and page.layout == 'project' %}
+                            {% assign maybe-active = 'active' %}
+                        {% endif %}
+                        {% if itemshorturl == shorturl or is-research %}
+                            {% assign maybe-active = 'active' %}
+                        {% endif %}
+
+                        <li class="nav-item">
+                            <a class="nav-link {{ maybe-active }}"
+                               href="{{ site.base }}{{ item.link }}">
+                                {{ item.title }}
+                            </a>
+                        </li>
+
+                    {% endfor %}
+
+                </ul>
+            </div>
+
+            {% if page.image %}
+                <img src="{{ page.image }}"
+                     alt="{{ page.title }}"
+                     style="max-width: 1000px"
+                     class="img-fluid mx-auto d-block mb-4"/>
+            {% endif %}
+
+            {% if page.notitle != true %}
+                <h1>{{ page.title }}</h1>
+            {% endif %}
+
+            {{ content }}
+
+            <div class="footer">
+                <p>
+                    Site created by <a href="https://nickvashkani.com/">Nickvash Kani</a> using the backend from the <a href="https://mlpgroup.xyz/">Mathematical Language Processing Group</a> website. 
+                    <br>
+                    <a href="http://ece.illinois.edu/">Electrical and Computer Engineering Department</a>
+                    at the
+                    <a href="http://illinois.edu/">University of Illinois at Urbana-Champaign</a>
+                </p>
+            </div>
+
+        </div> <!-- /container -->
+
+        <!-- Support retina images. -->
+        <script type="text/javascript"
+                src="{{ site.base }}/js/srcset-polyfill.js"></script>
+
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({
+                tex2jax: {
+                inlineMath: [['$','$'], ['\\(','\\)']],
+                processEscapes: true
+                }
+            });
+        </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>        
+    </body>
+</html>

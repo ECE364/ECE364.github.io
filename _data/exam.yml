@@ -1,0 +1,38 @@
+MT1: 
+  num: 1
+  topic: PyTorch, linear-algebra, regression basics 
+  date: 2025-03-11
+  samp_exam1: /materials/exams/MT1/ECE364_MT1_sample.pdf
+  samp_exam2: 
+  samp_exam1_sol: /materials/exams/MT1/ECE364_MT1_sample_sols.pdf
+  samp_exam2_sol: 
+  skillset: /materials/exams/MT1/ECE364_MT1_skillset.pdf
+  cheat_sheet: /materials/exams/MT1/ECE364_MT1_cheatsheet.pdf
+  exam_questions: /materials/exams/MT1/ECE364_MT1_sp25_final.pdf
+  exam_solutions: /materials/exams/MT1/ECE364_MT1_sol_sp25_final.pdf
+
+MT2: 
+  num: 2
+  topic: Deep nets and advanced ML models 
+  date: 2025-05-01
+  samp_exam1: /materials/exams/MT2/ECE364_MT2_sample.pdf
+  samp_exam2: 
+  samp_exam1_sol: /materials/exams/MT2/ECE364_MT2_sample_sols.pdf
+  samp_exam2_sol: 
+  skillset: /materials/exams/MT2/ECE364_MT2_skillset.pdf
+  cheat_sheet: /materials/exams/MT2/ECE364_MT2_cheatsheet.pdf
+  exam_questions: 
+  exam_solutions: 
+
+Conflict: 
+  num: 3
+  topic: Conflict exam(s) (during final period) 
+  date: 2025-05-12  
+  samp_exam: 
+  skillset: 
+  cheat_sheet: 
+  fodder: 
+  exam_questions: 
+  exam_solutions: 
+
+

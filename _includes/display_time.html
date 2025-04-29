@@ -1,0 +1,6 @@
+{% assign times = include.param | split: ':' %}
+{% assign h = times[0] | modulo:12 %}
+{% assign hh = times[0] | modulo:24 %}
+
+{% if h == 0 %}12{% else %}{{h}}{% endif %}:{{times[1]}}
+{% if h == hh %}am{% else %}pm{% endif %}

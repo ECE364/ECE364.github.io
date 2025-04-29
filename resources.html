@@ -1,0 +1,11 @@
+---
+layout: default
+title: Resources
+
+---
+
+<ul class="news list-unstyled">
+    {% for post in site.resources %}
+        {% include resource-item.html item=post %}
+    {% endfor %}
+</ul>

@@ -1,0 +1,105 @@
+kani:
+    display_name: "Nickvash Kani"
+    netid: kani
+    webpage: "https://nickvashkani.com"
+    github: NickvashKani
+    role: faculty
+    image: /img/people/Kani.png
+    bio: Teaching Assistant Professor 
+    OHs: 
+      OH1:
+        time-start: "16:00"
+        time-end: "17:00"
+        day: Thursday
+        location: 141 CSL
+    #   OH2:
+    #     time-start: "15:00"
+    #     time-end: "16:00"
+    #     day: Thursday
+    #     location: 141 CSL
+
+#### Graduate Teaching Assistants
+
+# sumedh:
+#     display_name: "Sumedh Vemuganti"
+#     netid: sumedh2
+#     webpage: "https://www.linkedin.com/in/sumedh-vemu/"
+#     github: sumedh2
+#     role: grad-alum
+#     image: /img/people/sumedh.jpeg
+#     bio: Graduate Course Assistant
+#     # OHs: 
+#     #   OH1:
+#     #     time-start: "16:00"
+#     #     time-end: "17:00"
+#     #     day: Friday
+#     #     location: 3013 ECEB
+
+# hongbo:
+#     display_name: "Hongbo Zheng"
+#     webpage: "https://www.linkedin.com/in/hongbo-zheng-b088581b6"
+#     netid: hongboz2
+#     github: 
+#     role: grad-alum
+#     image: /img/people/hongbo.jpeg
+#     bio: Graduate Course Assistant
+
+neeraj:
+    display_name: "Neeraj Gangwar"
+    webpage: "https://neerajgangwar.com/"
+    netid: gangwar2
+    github: neerajgangwar
+    role: grad
+    image: /img/people/neeraj.jpg
+    bio: Graduate Course Assistant
+    OHs: 
+      OH1:
+        time-start: "11:00"
+        time-end: "12:00"
+        day: Friday
+        location: 141 CSL
+
+suyuan:
+    display_name: "Suyuan Wang"
+    webpage: "https://www.linkedin.com/in/suyuanw8197a724a/"
+    netid: suyuan2
+    github: 
+    role: grad
+    image: /img/people/suyuan.jpg
+    bio: Graduate Course Assistant
+    OHs: 
+      OH1:
+        time-start: "11:00"
+        time-end: "12:00"
+        day: Wednesday
+        location: 221 CSL
+### Undergraduate TAs
+
+vishesh:
+    display_name: "Vishesh Prasad"
+    netid: vprasad3
+    webpage: "https://visheshprasad.com/"
+    github: visheshprasad
+    role: ugrad
+    image: /img/people/vishesh.png
+    bio: Undergraduate Researcher
+    OHs: 
+      OH1:
+        time-start: "10:00"
+        time-end: "12:00"
+        day: Thursday
+        location: 141 CSL
+      OH2:
+        time-start: "12:00"
+        time-end: "14:00"
+        day: Friday
+        location: 141 CSL
+
+jeffshin:
+    display_name: "Jeff Shin"
+    netid: wonjong2
+    webpage: "https://www.linkedin.com/in/jeff-shin/"
+    github: shinwj123
+    role: ugrad
+    image: /img/people/jeffshin.jpg
+    bio: Undergraduate Researcher
