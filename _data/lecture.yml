@@ -200,8 +200,8 @@ lec24:
 
 lec25:
   num: 25
-  title: Lecture 25 - Course recap and celebration 
+  title: Lecture 25 - Course recap and farewell 
   deliverydate: 2025-05-06 
-  link-slides: 
-  link-code: 
+  link-slides: materials/lectures/lec25/Lecture25_Kani.html
+  link-code: materials/lectures/lec25/Lec25_Kani_release.zip
   link-recording: 
