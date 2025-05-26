@@ -49,7 +49,7 @@ neeraj:
     webpage: "https://neerajgangwar.com/"
     netid: gangwar2
     github: neerajgangwar
-    role: grad
+    role: grad-alum
     image: /img/people/neeraj.jpg
     bio: Graduate Course Assistant
     OHs: 
@@ -64,7 +64,7 @@ suyuan:
     webpage: "https://www.linkedin.com/in/suyuanw8197a724a/"
     netid: suyuan2
     github: 
-    role: grad
+    role: grad-alum
     image: /img/people/suyuan.jpg
     bio: Graduate Course Assistant
     OHs: 
@@ -80,7 +80,7 @@ vishesh:
     netid: vprasad3
     webpage: "https://visheshprasad.com/"
     github: visheshprasad
-    role: ugrad
+    role: ugrad-alum
     image: /img/people/vishesh.png
     bio: Undergraduate Researcher
     OHs: 
@@ -100,6 +100,6 @@ jeffshin:
     netid: wonjong2
     webpage: "https://www.linkedin.com/in/jeff-shin/"
     github: shinwj123
-    role: ugrad
+    role: ugrad-alum
     image: /img/people/jeffshin.jpg
     bio: Undergraduate Researcher

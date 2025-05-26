@@ -20,21 +20,29 @@ role-archive-tables:
 - - roles: [faculty]
     width: 4
     image: true
-  - roles: [faculty-alum]
+    - roles: [grad-alum]
     width: 8
+    image: true
+- - roles: [ugrad-alum]
+    width: 12
     image: true
 ---
 
-{% if site.archived == true %}   
 <section style="text-align: center;">
     <a href="https://ecealgo.com/fa24" class="button-row button4"> Current iteration - Fall 2024 </a> 
 </section>
-{% endif %}
 
 <div class="jumbotron">
     <p>
         ECE364 focuses on auto-differentiation tools like PyTorch used with basic machine learning algorithms (linear regression, logistic regression, deep nets, k-means clustering) and extensions in custom methods to fit specific needs. Auto-differentiation tools are essential for data analysis, and a solid understanding of them is increasingly important in many disciplines. In contrast to existing courses focusing on algorithmic and theoretical aspects of Machine Learning, the focus here is on implementation with auto-diff tools.
     </p>
+
+    {% if site.archived == true %}   
+    <p>
+    <b>And that's a wrap.</b> This course was offered for the first (and currently last) time in Spring 2025. I'm leaving the content up in case anyone else finds it useful, and I'll keep adding to it here and there as I continue refining my own understanding of some topics. I had a great time teaching this course, but before wrapping up, I want to give a huge shoutout to my amazing course staff: <b>Neeraj Gangwar, Suyuan Wang, Vishesh Prasad, and Jeff Shin</b>. I know I’m the professor and my name's always at the top, but honestly, none of this would've been possible without them—I owe them a ton. Thanks again to my staff and students for an incredible semester, and don’t be afraid to ping!
+    </p>
+    {% endif %}
+
 </div>
 
 <section style="text-align: center;">
