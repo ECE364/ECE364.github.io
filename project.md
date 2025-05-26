@@ -43,3 +43,39 @@ You must submit:
 There are two important deadlines:
 - **Kaggle competition closes:** May 5th (Monday before Reading Day)
 - **Two-page report due:** May 12th (Monday)
+
+
+## Winners! 
+
+The ECE364 project for the Spring 2025 semester has officially concluded! We were genuinely impressed by the creativity and enthusiasm students showed in experimenting with different model combinations and training strategies. Across all tasks, there were teams that surprised us with their innovative approaches and strong results. Here are a few personal takeaways from the project:
+
+- Task II was the most popular, followed by Task III, and then Task I. I honestly expected the reverse—but the data speaks for itself.
+- In Task II, several teams came very close to the best possible performance. It’s fascinating how often these competitions are decided by the slimmest of margins.
+- In Task III, many teams approached the theoretical maximum performance! Looks like we’ll need to design more complex market environments next time.
+- Interestingly, there was no correlation between team size and competition performance.
+
+Anyway, here are the winners of each task competition and the teams that provided the best reports: 
+
+<table id="customers">
+  <tr>
+    <th> Task </th>
+    <th> Competition Winner </th>
+    <th> Best Report Winner </th>
+  </tr>
+  <tr>
+    <td> Task I (Vision) </td>
+    <td> Junyi Chen, Shengyu Xu, Chaohua Yao </td>
+    <td> Jiwoong Jung, Pump Vanichjakvong, Haoming Mei </td>
+  </tr>
+  <tr>
+    <td> Task 2 (NLP) </td>
+    <td> Alayna Li, Ayush Barik, Brent Alonzo </td>
+    <td> Ding Jiang, Denghan Xiong, Yaxing Zhang </td>
+  </tr>
+  <tr>
+    <td> Task 3 (Markets) </td>
+    <td> Riley Douglas </td>
+    <td> Vikram Chakravarthi </td>
+  </tr>
+</table>
+&nbsp;
