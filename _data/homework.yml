@@ -2,8 +2,8 @@ hw1:
   num: 1
   topic: Pytorch Basics
   num-problems: 
-  assigned-date: 2025-01-24
-  due-date: 2025-02-03
+  assigned-date: 2026-01-23
+  due-date: 2026-02-02
   questions-link: 
   solutions-link: 
 
@@ -11,8 +11,8 @@ hw2:
   num: 2
   topic: Linear Algebra
   num-problems: 
-  assigned-date: 2025-01-31
-  due-date: 2025-02-10
+  assigned-date: 2026-01-30
+  due-date: 2026-02-09
   questions-link: 
   solutions-link: 
 
@@ -20,8 +20,8 @@ hw3:
   num: 3
   topic: Auto-differentiation 
   num-problems: 
-  assigned-date: 2025-02-07
-  due-date: 2025-02-17
+  assigned-date: 2026-02-06
+  due-date: 2026-02-16
   questions-link: 
   solutions-link: 
 
@@ -29,8 +29,8 @@ hw4:
   num: 4
   topic: Optimization and regression	
   num-problems: 
-  assigned-date: 2025-02-14
-  due-date: 2025-02-24
+  assigned-date: 2026-02-13
+  due-date: 2026-02-23
   questions-link: 
   solutions-link: 
 
@@ -38,8 +38,8 @@ hw5:
   num: 5
   topic: Linear and logistic regression
   num-problems: 
-  assigned-date: 2025-02-21
-  due-date: 2025-03-03
+  assigned-date: 2026-02-20
+  due-date: 2026-03-02
   questions-link: 
   solutions-link: 
 
@@ -47,8 +47,8 @@ hw6:
   num: 6
   num-problems: 
   topic: More regression and optimizers	
-  assigned-date: 2025-02-28
-  due-date: 2025-03-10
+  assigned-date: 2026-02-27
+  due-date: 2026-03-09
   questions-link: 
   solutions-link: 
 
@@ -56,8 +56,8 @@ hw7:
   num: 7
   topic: Deep nets	
   num-problems: 
-  assigned-date: 2025-03-28
-  due-date: 2025-04-07
+  assigned-date: 2026-03-27
+  due-date: 2026-04-06
   questions-link: 
   solutions-link: 
 
@@ -65,8 +65,8 @@ hw8:
   num: 8
   topic: Recurrent NNs and PCA	
   num-problems: 
-  assigned-date: 2025-04-04
-  due-date: 2025-04-14
+  assigned-date: 2026-04-03
+  due-date: 2026-04-13
   questions-link: 
   solutions-link: 
 
@@ -74,8 +74,8 @@ hw9:
   num: 9
   topic: K-means and GAN
   num-problems: 
-  assigned-date: 2025-04-11
-  due-date: 2025-04-21
+  assigned-date: 2026-04-10
+  due-date: 2026-04-20
   questions-link: 
   solutions-link: 
 
@@ -83,7 +83,7 @@ hw10:
   num: 10
   topic: Attention and transformers
   num-problems: 
-  assigned-date: 2025-04-18
-  due-date: 2025-04-28
+  assigned-date: 2026-04-17
+  due-date: 2026-04-27
   questions-link: 
   solutions-link: 
