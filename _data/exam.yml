@@ -1,7 +1,7 @@
 MT1: 
   num: 1
   topic: PyTorch, linear-algebra, regression basics 
-  date: 2025-03-11
+  date: 2026-03-10
   samp_exam1: /materials/exams/MT1/ECE364_MT1_sample.pdf
   samp_exam2: 
   samp_exam1_sol: /materials/exams/MT1/ECE364_MT1_sample_sols.pdf
@@ -14,7 +14,7 @@ MT1:
 MT2: 
   num: 2
   topic: Deep nets and advanced ML models 
-  date: 2025-05-01
+  date: 2026-04-30
   samp_exam1: /materials/exams/MT2/ECE364_MT2_sample.pdf
   samp_exam2: 
   samp_exam1_sol: /materials/exams/MT2/ECE364_MT2_sample_sols.pdf
@@ -27,7 +27,7 @@ MT2:
 Conflict: 
   num: 3
   topic: Conflict exam(s) (during final period) 
-  date: 2025-05-12  
+  date:   
   samp_exam: 
   skillset: 
   cheat_sheet: 
