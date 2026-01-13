@@ -1,7 +1,7 @@
 lec0:
   num: 0
   title: Lecture 0 - PyTorch Intro, tensors, views, indexing
-  deliverydate: 2025-01-21 
+  deliverydate: 2026-01-20 
   link-slides: materials/lectures/lec0/Lecture0_Kani.html
   link-code: materials/lectures/lec0/Lec0_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_5vpn2azg
@@ -9,7 +9,7 @@ lec0:
 lec1:
   num: 1
   title: Lecture 1 - PyTorch storage, indexing, cpu/gpu data types, functions
-  deliverydate: 2025-01-23 
+  deliverydate: 2026-01-22 
   link-slides: materials/lectures/lec1/Lecture1_Kani.html
   link-code: materials/lectures/lec1/Lec1_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_y3p3mnmc
@@ -17,7 +17,7 @@ lec1:
 lec2:
   num: 2
   title: Lecture 2 - Linear algebra I
-  deliverydate: 2025-01-28 
+  deliverydate: 2026-01-27 
   link-slides: materials/lectures/lec2/Lecture2_Kani.html
   link-code: materials/lectures/lec2/Lec2_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_k1csnla1
@@ -25,7 +25,7 @@ lec2:
 lec3:
   num: 3
   title: Lecture 3 - Linear algebra II & Matrix algebra
-  deliverydate: 2025-01-30
+  deliverydate: 2026-01-29
   link-slides: materials/lectures/lec3/Lecture3_Kani.html
   link-code: materials/lectures/lec3/Lec3_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_5vcj285n
@@ -33,7 +33,7 @@ lec3:
 lec4:
   num: 4
   title: Lecture 4 - Matrix calculus II and computation graphs
-  deliverydate: 2025-02-04
+  deliverydate: 2026-02-03
   link-slides: materials/lectures/lec4/Lecture04_Kani.html
   link-code: materials/lectures/lec4/Lec4_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_1j9ahiz2
@@ -41,7 +41,7 @@ lec4:
 lec5:
   num: 5
   title: Lecture 5 - Gradient descent 
-  deliverydate: 2025-02-06 
+  deliverydate: 2026-02-05 
   link-slides: materials/lectures/lec05/Lecture05_Kani.html
   link-code: materials/lectures/lec05/Lec5_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_gs8msh4d
@@ -49,7 +49,7 @@ lec5:
 lec6:
   num: 6
   title: Lecture 6 - Primal optimization
-  deliverydate: 2025-02-11
+  deliverydate: 2026-02-10
   link-slides: materials/lectures/lec06/Lecture06_Kani.html
   link-code: materials/lectures/lec06/Lec06_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_23ks0xsb
@@ -57,7 +57,7 @@ lec6:
 lec7:
   num: 7
   title: Lecture 7 - Linear regression I
-  deliverydate: 2025-02-13
+  deliverydate: 2026-02-12
   link-slides: materials/lectures/lec07/Lecture07_Kani.html
   link-code: materials/lectures/lec07/Lec07_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_w3iz41uo
@@ -65,7 +65,7 @@ lec7:
 lec8:
   num: 8
   title: Lecture 8 - Linear regression II
-  deliverydate: 2025-02-18 
+  deliverydate: 2026-02-17 
   link-slides: materials/lectures/lec08/Lecture08_Kani.html
   link-code: materials/lectures/lec08/Lec08_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_oao6w3wh
@@ -73,7 +73,7 @@ lec8:
 lec9:
   num: 9
   title: Lecture 9 - Logistic regression
-  deliverydate: 2025-02-20
+  deliverydate: 2026-02-19
   link-slides: materials/lectures/lec09/Lecture09_Kani.html
   link-code: materials/lectures/lec09/Lec09_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_xztr40vu
@@ -81,7 +81,7 @@ lec9:
 lec10:
   num: 10
   title: Lecture 10 - Multi-class logistic regression
-  deliverydate: 2025-02-25 
+  deliverydate: 2026-02-24 
   link-slides: materials/lectures/lec10/Lecture10_Kani.html
   link-code: materials/lectures/lec10/Lec10_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_r152qomr
@@ -89,7 +89,7 @@ lec10:
 lec11:
   num: 11
   title: Lecture 11 - PyTorch optimizers, datasets, dataloaders I
-  deliverydate: 2025-02-27 
+  deliverydate: 2026-02-26 
   link-slides: materials/lectures/lec11/Lecture11_Kani.html
   link-code:  materials/lectures/lec11/Lec11_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_0r31885k
@@ -97,7 +97,7 @@ lec11:
 lec12:
   num: 12
   title: Lecture 12 - PyTorch optimizers, datasets, dataloaders II
-  deliverydate: 2025-03-04 
+  deliverydate: 2026-03-03 
   link-slides: materials/lectures/lec12/Lecture12_Kani.html
   link-code: materials/lectures/lec12/Lec12_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_le9r7pa0
@@ -105,7 +105,7 @@ lec12:
 lec13:
   num: 13
   title: Lecture 13 - Review for MT1
-  deliverydate: 2025-03-06
+  deliverydate: 2026-03-05
   link-slides: materials/lectures/lec13/Lecture13_Kani.html
   link-code: materials/lectures/lec13/Lec13_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_tevylt82
@@ -113,7 +113,7 @@ lec13:
 lec14:
   num: 14
   title: Lecture 14 - Deep Nets I - Simple, multi-layer networks
-  deliverydate: 2025-03-25 
+  deliverydate: 2026-03-24 
   link-slides: materials/lectures/lec14/Lecture14_Kani.html
   link-code: materials/lectures/lec14/Lec14_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_zw27ucwt
@@ -121,7 +121,7 @@ lec14:
 lec15:
   num: 15
   title: Lecture 15 - Deep Nets II - Convolutional networks
-  deliverydate: 2025-03-27 
+  deliverydate: 2026-03-26 
   link-slides: materials/lectures/lec15/Lecture15_Kani.html
   link-code: materials/lectures/lec15/Lec15_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_a0m2y1sm
@@ -129,7 +129,7 @@ lec15:
 lec16:
   num: 16
   title: Lecture 16 - Deep Nets III - Recurrent networks
-  deliverydate: 2025-04-01 
+  deliverydate: 2026-03-31 
   link-slides: materials/lectures/lec16/Lecture16_Kani.html
   link-code:  materials/lectures/lec16/Lec16_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_pcsdgpml
@@ -137,7 +137,7 @@ lec16:
 lec17:
   num: 17
   title: Lecture 17 - Principal component analysis
-  deliverydate: 2025-04-03
+  deliverydate: 2026-04-02
   link-slides: materials/lectures/lec17/Lecture17_Kani.html
   link-code: materials/lectures/lec17/Lec17_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_op81wsoy
@@ -145,7 +145,7 @@ lec17:
 lec18:
   num: 18
   title: Lecture 18 - K-means clustering, gaussian mixture models
-  deliverydate: 2025-04-08
+  deliverydate: 2026-04-07
   link-slides: materials/lectures/lec18/Lecture18_Kani.html
   link-code: materials/lectures/lec18/Lec18_Kani_release.zip
   link-recording: 
@@ -153,7 +153,7 @@ lec18:
 lec19:
   num: 19
   title: Lecture 19 - Generative adversarial networks
-  deliverydate: 2025-04-10 
+  deliverydate: 2026-04-09 
   link-slides: materials/lectures/lec19/Lecture19_Kani.html
   link-code: materials/lectures/lec19/Lec19_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_lf7d1urq
@@ -161,7 +161,7 @@ lec19:
 lec20:
   num: 20
   title: Lecture 20 - Object detection, semantic segmentation
-  deliverydate: 2025-04-15
+  deliverydate: 2026-04-14
   link-slides: materials/lectures/lec20/Lecture20_Kani.html
   link-code: materials/lectures/lec20/Lec20_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_9nwigcc0
@@ -169,7 +169,7 @@ lec20:
 lec21:
   num: 21
   title: Lecture 21 - Words and attention
-  deliverydate: 2025-04-17 
+  deliverydate: 2026-04-16 
   link-slides: materials/lectures/lec21/Lecture21_Kani.html
   link-code: materials/lectures/lec21/Lec21_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_3d5p5e4r
@@ -177,7 +177,7 @@ lec21:
 lec22:
   num: 22
   title: Lecture 22 - Transformers I
-  deliverydate: 2025-04-22 
+  deliverydate: 2026-04-21 
   link-slides: materials/lectures/lec22/Lecture22_Kani.html
   link-code: materials/lectures/lec22/Lec22_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_ha9jk1t8
@@ -185,7 +185,7 @@ lec22:
 lec23:
   num: 23
   title: Lecture 23 - Transformers II
-  deliverydate: 2025-04-24 
+  deliverydate: 2026-04-23 
   link-slides: materials/lectures/lec23/Lecture23_Kani.html
   link-code: materials/lectures/lec23/Lec23_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_hd3hok3p
@@ -193,7 +193,7 @@ lec23:
 lec24:
   num: 24
   title: Lecture 24 - Midterm 2 review
-  deliverydate: 2025-04-29
+  deliverydate: 2026-04-28
   link-slides: materials/lectures/lec24/Lecture24_Kani.html
   link-code: materials/lectures/lec24/Lec24_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_shzo0j3a
@@ -201,7 +201,7 @@ lec24:
 lec25:
   num: 25
   title: Lecture 25 - Course recap and farewell 
-  deliverydate: 2025-05-06 
+  deliverydate: 2026-05-05 
   link-slides: materials/lectures/lec25/Lecture25_Kani.html
   link-code: materials/lectures/lec25/Lec25_Kani_release.zip
   link-recording: https://mediaspace.illinois.edu/media/t/1_mqq6diz5
