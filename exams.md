@@ -62,7 +62,26 @@ title: Exams
                     title="{{ iteml[0] }} exam solutions"
                     src="{{ site.base }}/img/icons/lab_solutions.png" />
             </a>
-            {% endif %}              
+            {% endif %}
+            <br>
+            {% if item.samp_exam2 %}
+            <a href="{{ site.base }}{{ item.samp_exam2 }}"
+                style="text-decoration: none">
+                <img class="homework-icon"
+                    alt="{{ iteml[0] }} sample exam"
+                    title="{{ iteml[0] }} sample exam"
+                    src="{{ site.base }}/img/icons/lab_questions.png" />
+            </a>
+            {% endif %}
+            {% if item.samp_exam2_sol %}
+            <a href="{{ site.base }}{{ item.samp_exam2_sol }}"
+                style="text-decoration: none">
+                <img class="homework-icon"
+                    alt="{{ iteml[0] }} exam solutions"
+                    title="{{ iteml[0] }} exam solutions"
+                    src="{{ site.base }}/img/icons/lab_solutions.png" />
+            </a>
+            {% endif %}                
         </td>       
         <td> 
             {% if item.exam_questions %}
@@ -100,6 +119,7 @@ Couple things to note about exams:
 - The final exam time is reserved for conflict exams that students who missed one or both of the midterms need to take.
 - All the midterms will be administered during lecture time in the usual lecture room. 
 - The final will be used as a time to make up any exams previously missed and will be scheduled according to the registrar's schedule. 
+- While there are sample exams **the actual exams you recieve may bear little to no resemblence to the samples.** Do not study for exams but memorizing the samples. Samples are there to help you identify concepts you may be weak in. I like to try new types of questions and may test different concepts. The samples are from the previous semesters and things change. I'm just a little tired of the complaint that the exams aren't like the samples. The exams are always curved to a minimum average of 70 and the final grade curve is an additional layer of generosity. If you are doing poorly, it means a large number of your coursemates are doing well. I hate that most people use the phrase "it's not fair" to mean "its not beneficial to me personally."
 
 ### Exam Policies
 
