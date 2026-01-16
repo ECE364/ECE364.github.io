@@ -7,11 +7,11 @@ kani:
     image: /img/people/Kani.png
     bio: Teaching Assistant Professor 
     OHs: 
-      OH1:
-        time-start: "16:00"
-        time-end: "17:00"
-        day: Thursday
-        location: 141 CSL
+      # OH1:
+      #   time-start: "16:00"
+      #   time-end: "17:00"
+      #   day: Thursday
+      #   location: 141 CSL
     #   OH2:
     #     time-start: "15:00"
     #     time-end: "16:00"
@@ -84,11 +84,11 @@ suyuan:
     image: /img/people/suyuan.jpg
     bio: Graduate Course Assistant
     OHs: 
-      OH1:
-        time-start: "11:00"
-        time-end: "12:00"
-        day: Wednesday
-        location: 221 CSL
+      # OH1:
+      #   time-start: "11:00"
+      #   time-end: "12:00"
+      #   day: Wednesday
+      #   location: 221 CSL
 ### Undergraduate TAs
 
 vishesh:
@@ -100,16 +100,16 @@ vishesh:
     image: /img/people/vishesh.png
     bio: Undergraduate Researcher
     OHs: 
-      OH1:
-        time-start: "10:00"
-        time-end: "12:00"
-        day: Thursday
-        location: 141 CSL
-      OH2:
-        time-start: "12:00"
-        time-end: "14:00"
-        day: Friday
-        location: 141 CSL
+      # OH1:
+      #   time-start: "10:00"
+      #   time-end: "12:00"
+      #   day: Thursday
+      #   location: 141 CSL
+      # OH2:
+      #   time-start: "12:00"
+      #   time-end: "14:00"
+      #   day: Friday
+      #   location: 141 CSL
 
 jeffshin:
     display_name: "Jeff Shin"
