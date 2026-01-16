@@ -49,15 +49,31 @@ neeraj:
     webpage: "https://neerajgangwar.com/"
     netid: gangwar2
     github: neerajgangwar
-    role: grad-alum
+    role: grad
     image: /img/people/neeraj.jpg
     bio: Graduate Course Assistant
     OHs: 
-      OH1:
-        time-start: "11:00"
-        time-end: "12:00"
-        day: Friday
-        location: 141 CSL
+      # OH1:
+      #   time-start: "11:00"
+      #   time-end: "12:00"
+      #   day: Friday
+      #   location: 141 CSL
+
+sumedh:
+    display_name: "Sumedh Vemuganti"
+    netid: sumedh2
+    webpage: "https://www.linkedin.com/in/sumedh-vemu/"
+    github: sumedh2
+    role: grad
+    image: /img/people/sumedh.jpeg
+    bio: Graduate Course Assistant
+    OHs: 
+      # OH1:
+      #   time-start: "14:00"
+      #   time-end: "15:00"
+      #   day: Friday
+      #   location: ECEB 4036
+
 
 suyuan:
     display_name: "Suyuan Wang"
