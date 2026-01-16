@@ -21,15 +21,23 @@ For more information and examples, see any of the following:
 
 If you have any doubts about whether something constitutes plagiarism, talk to instructor(s) or the TAs, and err on the side of caution.
 
-###### No generative AI 
+##### No generative AI 
+LLMs are strictly forbidden from any course assignments. No it is not ok to use them for inspiration. There is a difference between google and ChatGPT. There is ample evidence that shows LLM usage dimishes learning: 
 
-- Textbooks and online documentation are allowed to be used with the homeworks.  
-- You are not allowed to use generative AIs for the homeworks. I totally get that lots of people find generative AI to be a useful [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck) when coding, but I do not believe that is the way most people are using it. I totally understand the philosophical argument, but I've been doing this a while now, and I firmly believe eliminating all struggle from learning harms students from becoming more intelligent the same way eliminating struggle from exercise eliminates any strength gains. And there's more research coming out that supports [this point of view](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486). 
+[1] [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/pdf/2506.08872v1)
+
+[2] [Generative AI Can Harm Learning](https://atelierdesfuturs.org/wp-content/uploads/2025/07/ssrn-4895486.pdf)
+
+I'm sure many students will vehemently disagree with me and say LLMs have helped them learn so much. To those people I respond:
+
+[3] [Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom](https://www.pnas.org/doi/10.1073/pnas.1821936116)
+
+But maybe I'm wrong. If you truly believe LLMs improve learning outcomes, I would be happy to help you set up and perform a research project that gets quantifiable metrics regarding this issue. Till then, I'm just forbidding it. Widespread LLM usage is a big reason why I have decided to remove homeworks from the course but we got to keep marching forward. 
 
 #### Penalties
 
-- The default penalty for cheating on a homework problem is *a full letter grade off your final course grade*.
-- The default penalty for cheating on an exam is *two full letter grades off your final course grade*
+- The default penalty for cheating on a homework problem is *a zero on the homework and a full letter grade off your final course grade*.
+- The default penalty for cheating on an exam is *a zero on the exam and two full letter grades off your final course grade*
 - The default penalty for cheating on an attendance sheet (should we choose to collect attendance) is *a full letter grade off your final course grade*.
 - The default penalty for cheating on multiple assignments in an F in the course. Doesn't matter if this is your first violation or your third. A consistent pattern of cheating in the course if grounds for immediate failure. 
 - We reserve the right to register FAIR violations at any point in the semester (even once the semester is over). FAIR violations are time-consuming for the staff so multiple cheating offenses could be included in a single violation. 
