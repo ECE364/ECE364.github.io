@@ -3,7 +3,7 @@ layout: default
 title: Project
 ---
 
-The final project is designed to give you experience implementing a machine learning model on a real-world dataset—without me telling you what method to use. We want you to explore any creative or unconventional methods you can think of! This is a completely open-ended problem, and the most important thing I want to see is **effort**. Details for 2026 will be released by Spring break but you can look at the [2025 competition](./projects2025.html) So let's go over the project details:
+The final project is designed to give you experience implementing a machine learning model on a real-world dataset—without me telling you what method to use. We want you to explore any creative or unconventional methods you can think of! This is a completely open-ended problem, and the most important thing I want to see is **effort**. Details for 2026 will be released by Spring break but you can look at the [2025 competition](./project2025.html) So let's go over the project details:
 
 ### Topics
 
