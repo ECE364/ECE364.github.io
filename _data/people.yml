@@ -7,11 +7,11 @@ kani:
     image: /img/people/Kani.png
     bio: Teaching Assistant Professor 
     OHs: 
-      # OH1:
-      #   time-start: "16:00"
-      #   time-end: "17:00"
-      #   day: Thursday
-      #   location: 141 CSL
+      OH1:
+        time-start: "17:00"
+        time-end: "18:00"
+        day: Tuesday
+        location: 265 CSL
     #   OH2:
     #     time-start: "15:00"
     #     time-end: "16:00"
@@ -53,11 +53,11 @@ neeraj:
     image: /img/people/neeraj.jpg
     bio: Graduate Course Assistant
     OHs: 
-      # OH1:
-      #   time-start: "11:00"
-      #   time-end: "12:00"
-      #   day: Friday
-      #   location: 141 CSL
+      OH1:
+        time-start: "11:00"
+        time-end: "12:00"
+        day: Monday
+        location: 2036 ECEB
 
 sumedh:
     display_name: "Sumedh Vemuganti"
@@ -68,11 +68,11 @@ sumedh:
     image: /img/people/sumedh.jpeg
     bio: Graduate Course Assistant
     OHs: 
-      # OH1:
-      #   time-start: "14:00"
-      #   time-end: "15:00"
-      #   day: Friday
-      #   location: ECEB 4036
+      OH1:
+        time-start: "14:00"
+        time-end: "15:00"
+        day: Friday
+        location: 3001 ECEB
 
 
 suyuan:
@@ -84,11 +84,11 @@ suyuan:
     image: /img/people/suyuan.jpg
     bio: Graduate Course Assistant
     OHs: 
-      # OH1:
-      #   time-start: "11:00"
-      #   time-end: "12:00"
-      #   day: Wednesday
-      #   location: 221 CSL
+      OH1:
+        time-start: "11:00"
+        time-end: "12:00"
+        day: Wednesday
+        location: 2036 ECEB
 ### Undergraduate TAs
 
 vishesh:
