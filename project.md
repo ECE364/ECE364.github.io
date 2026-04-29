@@ -41,7 +41,7 @@ You must submit:
 ### Due Dates
 
 There are two important deadlines:
-- **Kaggle competition closes:** May 6th (Monday before Reading Day)
+- **Kaggle competition closes:** May 6th (Wednesday before Reading Day)
 - **Two-page report due:** May 11th (Monday)
 
 
