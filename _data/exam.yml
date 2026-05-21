@@ -21,8 +21,8 @@ MT2:
   samp_exam2_sol: /materials/exams/MT2/ECE364_MT2_sol_sp25_final.pdf
   skillset: /materials/exams/MT2/ECE364_MT2_skillset.pdf
   cheat_sheet: /materials/exams/MT2/ECE364_MT2_cheatsheet.pdf
-  exam_questions: 
-  exam_solutions: 
+  exam_questions: materials/exams/MT2/ECE364_MT2_sp26_vf.pdf
+  exam_solutions: materials/exams/MT2/ECE364_MT2_sp26_sol_vf.pdf
 
 Conflict: 
   num: 3

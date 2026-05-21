@@ -47,7 +47,31 @@ There are two important deadlines:
 
 ## Winners! 
 
-To be announced
+And that's a wrap! The ECE364 project for the Spring 2026 semester has officially concluded! The creativity and passion exhibited by many of the teams was fantastic. Here are the winners of each task competition and the teams that provided the best reports: 
+
+<table id="customers">
+  <tr>
+    <th> Task </th>
+    <th> Competition Winner </th>
+  </tr>
+  <tr>
+    <td> Task I (Vision) </td>
+    <td> Pranav Narang </td>
+  </tr>
+  <tr>
+    <td> Task 2 (NLP) </td>
+    <td> Eason Lin </td>
+  </tr>
+  <tr>
+    <td> Task 3 (AI detection) </td>
+    <td> Zunaid Ahmed, Yanshan Liu, Siyuan Li, Yinghong Chen </td>
+  </tr>
+  <tr>
+    <td> Best Report </td>
+    <td> Siqi Li, Xin Lao,  Yijiang Yao</td>
+  </tr>
+</table>
+&nbsp;
 
 ## Prior Competitions
 
