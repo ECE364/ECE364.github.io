@@ -64,7 +64,7 @@ And that's a wrap! The ECE364 project for the Spring 2026 semester has officiall
   </tr>
   <tr>
     <td> Task 3 (AI detection) </td>
-    <td> Zunaid Ahmed, Yanshan Liu, Siyuan Li, Yinghong Chen </td>
+    <td> Zunaid Ahmed, Yi Miao, Yanshan Liu, Siyuan Li, Yinghong Chen </td>
   </tr>
   <tr>
     <td> Best Report </td>
